@@ -1,0 +1,1503 @@
+Unit_Code,Start_Date,Year_Quarter,Year,Quarter,Station_ID,Station_Type,Loc_Type,Pool_Group,Loc_Name,Parameter,Units,Depth,Colocation,QA_Flag,Plume,n,corrected_mean,sd
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.2,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.52,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,90.25,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.85,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.46,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.29,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.37,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.12,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.14,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,94.26,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.87,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.18,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,15.67,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.84,NA
+KAHO,5/15/2008,2008.375,2008,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0120080515,Temporary,Anchialine,Central,HA_Kaloko_011,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0120080515,Temporary,Anchialine,Central,HA_Kaloko_011,Chl,µg/l      ,Surface,NA,0,0,1,0.3,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0120080515,Temporary,Anchialine,Central,HA_Kaloko_011,ODOConc,mg/l      ,Surface,NA,0,0,1,7.77,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0120080515,Temporary,Anchialine,Central,HA_Kaloko_011,ODOSat,%         ,Surface,NA,0,0,1,90.81,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0120080515,Temporary,Anchialine,Central,HA_Kaloko_011,pH,None      ,Surface,NA,0,0,1,7.79,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0120080515,Temporary,Anchialine,Central,HA_Kaloko_011,Sal,ppth      ,Surface,NA,0,0,1,7.63,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0120080515,Temporary,Anchialine,Central,HA_Kaloko_011,SpCond,mS/cm     ,Surface,NA,0,0,1,13.22,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0120080515,Temporary,Anchialine,Central,HA_Kaloko_011,Temp,°C,Surface,NA,0,0,1,20.79,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0120080515,Temporary,Anchialine,Central,HA_Kaloko_011,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0220080515,Temporary,Anchialine,Central,HA_Honoko_029,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0220080515,Temporary,Anchialine,Central,HA_Honoko_029,Chl,µg/l      ,Surface,NA,0,0,1,0.31,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0220080515,Temporary,Anchialine,Central,HA_Honoko_029,ODOConc,mg/l      ,Surface,NA,0,0,1,7.42,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0220080515,Temporary,Anchialine,Central,HA_Honoko_029,ODOSat,%         ,Surface,NA,0,0,1,85.55,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0220080515,Temporary,Anchialine,Central,HA_Honoko_029,pH,None      ,Surface,NA,0,0,1,7.84,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0220080515,Temporary,Anchialine,Central,HA_Honoko_029,Sal,ppth      ,Surface,NA,0,0,1,8.68,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0220080515,Temporary,Anchialine,Central,HA_Honoko_029,SpCond,mS/cm     ,Surface,NA,0,0,1,14.87,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0220080515,Temporary,Anchialine,Central,HA_Honoko_029,Temp,°C,Surface,NA,0,0,1,19.77,NA
+KAHO,5/15/2008,2008.375,2008,0.375,TKAHO0220080515,Temporary,Anchialine,Central,HA_Honoko_029,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.82,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,94.81,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.86,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.71,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.68,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.87,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.17,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.43,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,98.71,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.86,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,7.43,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,12.9,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.92,NA
+KAHO,10/27/2008,2008.875,2008,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0120081027,Temporary,Anchialine,Central,HA_Kaloko_009,Chl,µg/l      ,Surface,NA,0,0,1,0.12,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0120081027,Temporary,Anchialine,Central,HA_Kaloko_009,ODOConc,mg/l      ,Surface,NA,0,0,1,7.25,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0120081027,Temporary,Anchialine,Central,HA_Kaloko_009,ODOSat,%         ,Surface,NA,0,0,1,85.94,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0120081027,Temporary,Anchialine,Central,HA_Kaloko_009,pH,None      ,Surface,NA,0,0,1,7.76,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0120081027,Temporary,Anchialine,Central,HA_Kaloko_009,Sal,ppth      ,Surface,NA,0,0,1,13.4,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0120081027,Temporary,Anchialine,Central,HA_Kaloko_009,SpCond,mS/cm     ,Surface,NA,0,0,1,22.19,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0120081027,Temporary,Anchialine,Central,HA_Kaloko_009,Temp,°C,Surface,NA,0,0,1,19.77,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0120081027,Temporary,Anchialine,Central,HA_Kaloko_009,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0720081027,Temporary,Anchialine,Central,HA_Kaloko_066,Chl,µg/l      ,Surface,NA,0,0,1,0.32,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0720081027,Temporary,Anchialine,Central,HA_Kaloko_066,ODOConc,mg/l      ,Surface,NA,0,0,1,6.06,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0720081027,Temporary,Anchialine,Central,HA_Kaloko_066,ODOSat,%         ,Surface,NA,0,0,1,73.24,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0720081027,Temporary,Anchialine,Central,HA_Kaloko_066,pH,None      ,Surface,NA,0,0,1,7.65,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0720081027,Temporary,Anchialine,Central,HA_Kaloko_066,Sal,ppth      ,Surface,NA,0,0,1,13.47,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0720081027,Temporary,Anchialine,Central,HA_Kaloko_066,SpCond,mS/cm     ,Surface,NA,0,0,1,22.32,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0720081027,Temporary,Anchialine,Central,HA_Kaloko_066,Temp,°C,Surface,NA,0,0,1,20.7,NA
+KAHO,10/27/2008,2008.875,2008,0.875,TKAHO0720081027,Temporary,Anchialine,Central,HA_Kaloko_066,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.42,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.28,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,99.05,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.97,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14.04,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,23.17,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.07,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,1,0,1,5.71,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.38,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,96.55,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.96,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,10.05,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,17.04,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.31,NA
+KAHO,2/26/2009,2009.125,2009,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0120090226,Temporary,Anchialine,Central,HA_Kaloko_013,Chl,µg/l      ,,NA,0,0,1,0.81,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0120090226,Temporary,Anchialine,Central,HA_Kaloko_013,ODOConc,mg/l      ,,NA,0,0,1,7.93,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0120090226,Temporary,Anchialine,Central,HA_Kaloko_013,ODOSat,%         ,,NA,0,0,1,95.75,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0120090226,Temporary,Anchialine,Central,HA_Kaloko_013,pH,None      ,,NA,0,0,1,7.89,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0120090226,Temporary,Anchialine,Central,HA_Kaloko_013,Sal,ppth      ,,NA,0,0,1,13.06,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0120090226,Temporary,Anchialine,Central,HA_Kaloko_013,SpCond,mS/cm     ,,NA,0,0,1,21.69,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0120090226,Temporary,Anchialine,Central,HA_Kaloko_013,Temp,°C,,NA,0,0,1,20.8,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0120090226,Temporary,Anchialine,Central,HA_Kaloko_013,Turbid+,FNU       ,,NA,0,0,1,0.1,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0220090226,Temporary,Anchialine,Central,HA_Kaloko_032,Chl,µg/l      ,Surface,NA,0,0,1,0.24,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0220090226,Temporary,Anchialine,Central,HA_Kaloko_032,ODOConc,mg/l      ,Surface,NA,0,0,1,6.58,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0220090226,Temporary,Anchialine,Central,HA_Kaloko_032,ODOSat,%         ,Surface,NA,0,0,1,76.64,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0220090226,Temporary,Anchialine,Central,HA_Kaloko_032,pH,None      ,Surface,NA,0,0,1,7.69,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0220090226,Temporary,Anchialine,Central,HA_Kaloko_032,Sal,ppth      ,Surface,NA,0,0,1,11.59,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0220090226,Temporary,Anchialine,Central,HA_Kaloko_032,SpCond,mS/cm     ,Surface,NA,0,0,1,19.43,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0220090226,Temporary,Anchialine,Central,HA_Kaloko_032,Temp,°C,Surface,NA,0,0,1,19.4,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0220090226,Temporary,Anchialine,Central,HA_Kaloko_032,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0420090226,Temporary,Anchialine,Central,HA_Kaloko_044,Chl,µg/l      ,Surface,NA,0,0,1,0.19,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0420090226,Temporary,Anchialine,Central,HA_Kaloko_044,ODOConc,mg/l      ,Surface,NA,0,0,1,7.45,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0420090226,Temporary,Anchialine,Central,HA_Kaloko_044,ODOSat,%         ,Surface,NA,0,0,1,88.8,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0420090226,Temporary,Anchialine,Central,HA_Kaloko_044,pH,None      ,Surface,NA,0,0,1,7.91,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0420090226,Temporary,Anchialine,Central,HA_Kaloko_044,Sal,ppth      ,Surface,NA,0,0,1,13.84,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0420090226,Temporary,Anchialine,Central,HA_Kaloko_044,SpCond,mS/cm     ,Surface,NA,0,0,1,22.87,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0420090226,Temporary,Anchialine,Central,HA_Kaloko_044,Temp,°C,Surface,NA,0,0,1,19.9,NA
+KAHO,2/26/2009,2009.125,2009,0.125,TKAHO0420090226,Temporary,Anchialine,Central,HA_Kaloko_044,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.76,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,93.92,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,8.05,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,23.13,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.64,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.51,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,7.51,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,87.29,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,8.08,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,10.38,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,17.55,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.58,NA
+KAHO,4/28/2009,2009.375,2009,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0420090428,Temporary,Anchialine,Central,HA_Kaloko_053B,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0420090428,Temporary,Anchialine,Central,HA_Kaloko_053B,Chl,µg/l      ,Surface,NA,0,0,1,0.61,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0420090428,Temporary,Anchialine,Central,HA_Kaloko_053B,ODOConc,mg/l      ,Surface,NA,0,0,1,7.04,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0420090428,Temporary,Anchialine,Central,HA_Kaloko_053B,ODOSat,%         ,Surface,NA,0,0,1,82.49,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0420090428,Temporary,Anchialine,Central,HA_Kaloko_053B,pH,None      ,Surface,NA,0,0,1,7.93,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0420090428,Temporary,Anchialine,Central,HA_Kaloko_053B,Sal,ppth      ,Surface,NA,0,0,1,12.2,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0420090428,Temporary,Anchialine,Central,HA_Kaloko_053B,SpCond,mS/cm     ,Surface,NA,0,0,1,20.35,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0420090428,Temporary,Anchialine,Central,HA_Kaloko_053B,Temp,°C,Surface,NA,0,0,1,19.45,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0420090428,Temporary,Anchialine,Central,HA_Kaloko_053B,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0520090428,Temporary,Anchialine,Central,HA_Kaloko_053E,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0520090428,Temporary,Anchialine,Central,HA_Kaloko_053E,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0520090428,Temporary,Anchialine,Central,HA_Kaloko_053E,ODOConc,mg/l      ,Surface,NA,0,0,1,6.72,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0520090428,Temporary,Anchialine,Central,HA_Kaloko_053E,ODOSat,%         ,Surface,NA,0,0,1,80.29,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0520090428,Temporary,Anchialine,Central,HA_Kaloko_053E,pH,None      ,Surface,NA,0,0,1,7.92,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0520090428,Temporary,Anchialine,Central,HA_Kaloko_053E,Sal,ppth      ,Surface,NA,0,0,1,12.21,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0520090428,Temporary,Anchialine,Central,HA_Kaloko_053E,SpCond,mS/cm     ,Surface,NA,0,0,1,20.36,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0520090428,Temporary,Anchialine,Central,HA_Kaloko_053E,Temp,°C,Surface,NA,0,0,1,19.43,NA
+KAHO,4/28/2009,2009.375,2009,0.375,TKAHO0520090428,Temporary,Anchialine,Central,HA_Kaloko_053E,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.07,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,100.4,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.86,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14.96,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,24.58,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.81,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.16,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,96.26,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.84,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,10.37,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,17.53,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.4,NA
+KAHO,7/24/2009,2009.625,2009,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0120090724,Temporary,Anchialine,Central,HA_Honoko_021,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0120090724,Temporary,Anchialine,Central,HA_Honoko_021,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0120090724,Temporary,Anchialine,Central,HA_Honoko_021,ODOConc,mg/l      ,Surface,NA,0,0,1,6.66,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0120090724,Temporary,Anchialine,Central,HA_Honoko_021,ODOSat,%         ,Surface,NA,0,0,1,79.75,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0120090724,Temporary,Anchialine,Central,HA_Honoko_021,pH,None      ,Surface,NA,0,0,1,7.68,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0120090724,Temporary,Anchialine,Central,HA_Honoko_021,Sal,ppth      ,Surface,NA,0,0,1,13.64,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0120090724,Temporary,Anchialine,Central,HA_Honoko_021,SpCond,mS/cm     ,Surface,NA,0,0,1,22.56,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0120090724,Temporary,Anchialine,Central,HA_Honoko_021,Temp,°C,Surface,NA,0,0,1,20.18,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0120090724,Temporary,Anchialine,Central,HA_Honoko_021,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0420090724,Temporary,Anchialine,Central,HA_Kaloko_009,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0420090724,Temporary,Anchialine,Central,HA_Kaloko_009,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0420090724,Temporary,Anchialine,Central,HA_Kaloko_009,ODOConc,mg/l      ,Surface,NA,0,0,1,7.47,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0420090724,Temporary,Anchialine,Central,HA_Kaloko_009,ODOSat,%         ,Surface,NA,0,0,1,88.9,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0420090724,Temporary,Anchialine,Central,HA_Kaloko_009,pH,None      ,Surface,NA,0,0,1,7.76,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0420090724,Temporary,Anchialine,Central,HA_Kaloko_009,Sal,ppth      ,Surface,NA,0,0,1,14.03,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0420090724,Temporary,Anchialine,Central,HA_Kaloko_009,SpCond,mS/cm     ,Surface,NA,0,0,1,23.15,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0420090724,Temporary,Anchialine,Central,HA_Kaloko_009,Temp,°C,Surface,NA,0,0,1,19.81,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0420090724,Temporary,Anchialine,Central,HA_Kaloko_009,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0520090724,Temporary,Anchialine,Central,HA_Kaloko_012,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0520090724,Temporary,Anchialine,Central,HA_Kaloko_012,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0520090724,Temporary,Anchialine,Central,HA_Kaloko_012,ODOConc,mg/l      ,Surface,NA,0,0,1,8.42,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0520090724,Temporary,Anchialine,Central,HA_Kaloko_012,ODOSat,%         ,Surface,NA,0,0,1,104.71,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0520090724,Temporary,Anchialine,Central,HA_Kaloko_012,pH,None      ,Surface,NA,0,0,1,7.94,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0520090724,Temporary,Anchialine,Central,HA_Kaloko_012,Sal,ppth      ,Surface,NA,0,0,1,13.54,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0520090724,Temporary,Anchialine,Central,HA_Kaloko_012,SpCond,mS/cm     ,Surface,NA,0,0,1,22.44,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0520090724,Temporary,Anchialine,Central,HA_Kaloko_012,Temp,°C,Surface,NA,0,0,1,22.22,NA
+KAHO,7/24/2009,2009.625,2009,0.625,TKAHO0520090724,Temporary,Anchialine,Central,HA_Kaloko_012,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.48,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,90.94,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.82,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.58,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.48,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.05,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.16,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,7.77,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,91.15,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.85,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.68,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,16.45,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.36,NA
+KAHO,10/29/2009,2009.875,2009,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0120091029,Temporary,Anchialine,Central,HA_Honoko_020,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0120091029,Temporary,Anchialine,Central,HA_Honoko_020,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0120091029,Temporary,Anchialine,Central,HA_Honoko_020,ODOConc,mg/l      ,Surface,NA,0,0,1,7.71,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0120091029,Temporary,Anchialine,Central,HA_Honoko_020,ODOSat,%         ,Surface,NA,0,0,1,90.86,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0120091029,Temporary,Anchialine,Central,HA_Honoko_020,pH,None      ,Surface,NA,0,0,1,7.81,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0120091029,Temporary,Anchialine,Central,HA_Honoko_020,Sal,ppth      ,Surface,NA,0,0,1,11.97,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0120091029,Temporary,Anchialine,Central,HA_Honoko_020,SpCond,mS/cm     ,Surface,NA,0,0,1,20.01,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0120091029,Temporary,Anchialine,Central,HA_Honoko_020,Temp,°C,Surface,NA,0,0,1,19.88,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0120091029,Temporary,Anchialine,Central,HA_Honoko_020,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0420091029,Temporary,Anchialine,Central,HA_Kaloko_046,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0420091029,Temporary,Anchialine,Central,HA_Kaloko_046,Chl,µg/l      ,Surface,NA,0,0,1,0.19,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0420091029,Temporary,Anchialine,Central,HA_Kaloko_046,ODOConc,mg/l      ,Surface,NA,0,0,1,6.89,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0420091029,Temporary,Anchialine,Central,HA_Kaloko_046,ODOSat,%         ,Surface,NA,0,0,1,81.38,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0420091029,Temporary,Anchialine,Central,HA_Kaloko_046,pH,None      ,Surface,NA,0,0,1,7.75,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0420091029,Temporary,Anchialine,Central,HA_Kaloko_046,Sal,ppth      ,Surface,NA,0,0,1,13.45,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0420091029,Temporary,Anchialine,Central,HA_Kaloko_046,SpCond,mS/cm     ,Surface,NA,0,0,1,22.27,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0420091029,Temporary,Anchialine,Central,HA_Kaloko_046,Temp,°C,Surface,NA,0,0,1,19.54,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0420091029,Temporary,Anchialine,Central,HA_Kaloko_046,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0520091029,Temporary,Anchialine,Central,HA_Kaloko_053H,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0520091029,Temporary,Anchialine,Central,HA_Kaloko_053H,Chl,µg/l      ,Surface,NA,0,0,1,0.19,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0520091029,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOConc,mg/l      ,Surface,NA,0,0,1,7.89,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0520091029,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOSat,%         ,Surface,NA,0,0,1,91.53,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0520091029,Temporary,Anchialine,Central,HA_Kaloko_053H,pH,None      ,Surface,NA,0,0,1,7.81,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0520091029,Temporary,Anchialine,Central,HA_Kaloko_053H,Sal,ppth      ,Surface,NA,0,0,1,9.43,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0520091029,Temporary,Anchialine,Central,HA_Kaloko_053H,SpCond,mS/cm     ,Surface,NA,0,0,1,16.06,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0520091029,Temporary,Anchialine,Central,HA_Kaloko_053H,Temp,°C,Surface,NA,0,0,1,19.84,NA
+KAHO,10/29/2009,2009.875,2009,0.875,TKAHO0520091029,Temporary,Anchialine,Central,HA_Kaloko_053H,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.91,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,108.2,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.85,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14.02,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,23.14,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.85,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.15,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,94.95,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.9,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.79,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,16.62,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.94,NA
+KAHO,1/19/2010,2010.125,2010,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.31,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0520100119,Temporary,Anchialine,Central,HA_Kaloko_050,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0520100119,Temporary,Anchialine,Central,HA_Kaloko_050,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0520100119,Temporary,Anchialine,Central,HA_Kaloko_050,ODOConc,mg/l      ,Surface,NA,0,0,1,7.29,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0520100119,Temporary,Anchialine,Central,HA_Kaloko_050,ODOSat,%         ,Surface,NA,0,0,1,85.8,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0520100119,Temporary,Anchialine,Central,HA_Kaloko_050,pH,None      ,Surface,NA,0,0,1,7.78,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0520100119,Temporary,Anchialine,Central,HA_Kaloko_050,Sal,ppth      ,Surface,NA,0,0,1,13.35,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0520100119,Temporary,Anchialine,Central,HA_Kaloko_050,SpCond,mS/cm     ,Surface,NA,0,0,1,22.12,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0520100119,Temporary,Anchialine,Central,HA_Kaloko_050,Temp,°C,Surface,NA,0,0,1,19.36,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0520100119,Temporary,Anchialine,Central,HA_Kaloko_050,Turbid+,FNU       ,Surface,NA,0,0,1,0.12,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0620100119,Temporary,Anchialine,Central,HA_Kaloko_055,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0620100119,Temporary,Anchialine,Central,HA_Kaloko_055,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0620100119,Temporary,Anchialine,Central,HA_Kaloko_055,ODOConc,mg/l      ,Surface,NA,0,0,1,7.79,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0620100119,Temporary,Anchialine,Central,HA_Kaloko_055,ODOSat,%         ,Surface,NA,0,0,1,92.5,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0620100119,Temporary,Anchialine,Central,HA_Kaloko_055,pH,None      ,Surface,NA,0,0,1,7.8,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0620100119,Temporary,Anchialine,Central,HA_Kaloko_055,Sal,ppth      ,Surface,NA,0,0,1,12.78,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0620100119,Temporary,Anchialine,Central,HA_Kaloko_055,SpCond,mS/cm     ,Surface,NA,0,0,1,21.25,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0620100119,Temporary,Anchialine,Central,HA_Kaloko_055,Temp,°C,Surface,NA,0,0,1,20.01,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0620100119,Temporary,Anchialine,Central,HA_Kaloko_055,Turbid+,FNU       ,Surface,NA,0,0,1,0.13,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0720100119,Temporary,Anchialine,Central,HA_Kaloko_057E,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0720100119,Temporary,Anchialine,Central,HA_Kaloko_057E,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0720100119,Temporary,Anchialine,Central,HA_Kaloko_057E,ODOConc,mg/l      ,Surface,NA,0,0,1,7.47,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0720100119,Temporary,Anchialine,Central,HA_Kaloko_057E,ODOSat,%         ,Surface,NA,0,0,1,87.47,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0720100119,Temporary,Anchialine,Central,HA_Kaloko_057E,pH,None      ,Surface,NA,0,0,1,7.79,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0720100119,Temporary,Anchialine,Central,HA_Kaloko_057E,Sal,ppth      ,Surface,NA,0,0,1,12.62,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0720100119,Temporary,Anchialine,Central,HA_Kaloko_057E,SpCond,mS/cm     ,Surface,NA,0,0,1,21.01,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0720100119,Temporary,Anchialine,Central,HA_Kaloko_057E,Temp,°C,Surface,NA,0,0,1,19.36,NA
+KAHO,1/19/2010,2010.125,2010,0.125,TKAHO0720100119,Temporary,Anchialine,Central,HA_Kaloko_057E,Turbid+,FNU       ,Surface,NA,0,0,1,1.42,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.78,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,107.08,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.82,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,12.16,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,20.33,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.65,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,1.07,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.21,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,95.53,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.78,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.38,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,15.99,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.05,NA
+KAHO,4/14/2010,2010.375,2010,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.9,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0120100414,Temporary,Anchialine,Central,HA_Kaloko_067,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0120100414,Temporary,Anchialine,Central,HA_Kaloko_067,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0120100414,Temporary,Anchialine,Central,HA_Kaloko_067,ODOConc,mg/l      ,Surface,NA,0,0,1,8.13,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0120100414,Temporary,Anchialine,Central,HA_Kaloko_067,ODOSat,%         ,Surface,NA,0,0,1,94.58,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0120100414,Temporary,Anchialine,Central,HA_Kaloko_067,pH,None      ,Surface,NA,0,0,1,7.84,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0120100414,Temporary,Anchialine,Central,HA_Kaloko_067,Sal,ppth      ,Surface,NA,0,0,1,9.75,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0120100414,Temporary,Anchialine,Central,HA_Kaloko_067,SpCond,mS/cm     ,Surface,NA,0,0,1,16.56,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0120100414,Temporary,Anchialine,Central,HA_Kaloko_067,Temp,°C,Surface,NA,0,0,1,19.93,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0120100414,Temporary,Anchialine,Central,HA_Kaloko_067,Turbid+,FNU       ,Surface,NA,0,0,1,1.17,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0220100414,Temporary,Anchialine,Central,HA_Kaloko_062,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0220100414,Temporary,Anchialine,Central,HA_Kaloko_062,Chl,µg/l      ,Surface,NA,0,0,1,0.17,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0220100414,Temporary,Anchialine,Central,HA_Kaloko_062,ODOConc,mg/l      ,Surface,NA,0,0,1,7.17,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0220100414,Temporary,Anchialine,Central,HA_Kaloko_062,ODOSat,%         ,Surface,NA,0,0,1,83.72,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0220100414,Temporary,Anchialine,Central,HA_Kaloko_062,pH,None      ,Surface,NA,0,0,1,7.71,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0220100414,Temporary,Anchialine,Central,HA_Kaloko_062,Sal,ppth      ,Surface,NA,0,0,1,11.32,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0220100414,Temporary,Anchialine,Central,HA_Kaloko_062,SpCond,mS/cm     ,Surface,NA,0,0,1,19.01,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0220100414,Temporary,Anchialine,Central,HA_Kaloko_062,Temp,°C,Surface,NA,0,0,1,19.6,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0220100414,Temporary,Anchialine,Central,HA_Kaloko_062,Turbid+,FNU       ,Surface,NA,0,0,1,0.76,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0420100414,Temporary,Anchialine,Central,HA_Kaloko_061,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0420100414,Temporary,Anchialine,Central,HA_Kaloko_061,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0420100414,Temporary,Anchialine,Central,HA_Kaloko_061,ODOConc,mg/l      ,Surface,NA,0,0,1,7.6,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0420100414,Temporary,Anchialine,Central,HA_Kaloko_061,ODOSat,%         ,Surface,NA,0,0,1,88.63,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0420100414,Temporary,Anchialine,Central,HA_Kaloko_061,pH,None      ,Surface,NA,0,0,1,7.83,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0420100414,Temporary,Anchialine,Central,HA_Kaloko_061,Sal,ppth      ,Surface,NA,0,0,1,11.05,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0420100414,Temporary,Anchialine,Central,HA_Kaloko_061,SpCond,mS/cm     ,Surface,NA,0,0,1,18.58,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0420100414,Temporary,Anchialine,Central,HA_Kaloko_061,Temp,°C,Surface,NA,0,0,1,19.62,NA
+KAHO,4/14/2010,2010.375,2010,0.375,TKAHO0420100414,Temporary,Anchialine,Central,HA_Kaloko_061,Turbid+,FNU       ,Surface,NA,0,0,1,1.07,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.48,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,104.57,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.79,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14.26,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,23.52,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.57,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.35,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.21,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,96.29,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.83,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.84,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,16.71,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.29,NA
+KAHO,7/16/2010,2010.625,2010,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.71,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0220100716,Temporary,Anchialine,Central,HA_Kaloko_049,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0220100716,Temporary,Anchialine,Central,HA_Kaloko_049,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0220100716,Temporary,Anchialine,Central,HA_Kaloko_049,ODOConc,mg/l      ,Surface,NA,0,0,1,7.02,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0220100716,Temporary,Anchialine,Central,HA_Kaloko_049,ODOSat,%         ,Surface,NA,0,0,1,82.85,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0220100716,Temporary,Anchialine,Central,HA_Kaloko_049,pH,None      ,Surface,NA,0,0,1,7.72,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0220100716,Temporary,Anchialine,Central,HA_Kaloko_049,Sal,ppth      ,Surface,NA,0,0,1,14.11,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0220100716,Temporary,Anchialine,Central,HA_Kaloko_049,SpCond,mS/cm     ,Surface,NA,0,0,1,23.27,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0220100716,Temporary,Anchialine,Central,HA_Kaloko_049,Temp,°C,Surface,NA,0,0,1,19.32,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0220100716,Temporary,Anchialine,Central,HA_Kaloko_049,Turbid+,FNU       ,Surface,NA,0,0,1,0.8,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0520100716,Temporary,Anchialine,Central,HA_Kaloko_007,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0520100716,Temporary,Anchialine,Central,HA_Kaloko_007,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0520100716,Temporary,Anchialine,Central,HA_Kaloko_007,ODOConc,mg/l      ,Surface,NA,0,0,1,9.15,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0520100716,Temporary,Anchialine,Central,HA_Kaloko_007,ODOSat,%         ,Surface,NA,0,0,1,114.01,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0520100716,Temporary,Anchialine,Central,HA_Kaloko_007,pH,None      ,Surface,NA,0,0,1,7.81,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0520100716,Temporary,Anchialine,Central,HA_Kaloko_007,Sal,ppth      ,Surface,NA,0,0,1,13.84,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0520100716,Temporary,Anchialine,Central,HA_Kaloko_007,SpCond,mS/cm     ,Surface,NA,0,0,1,22.9,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0520100716,Temporary,Anchialine,Central,HA_Kaloko_007,Temp,°C,Surface,NA,0,0,1,22.24,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0520100716,Temporary,Anchialine,Central,HA_Kaloko_007,Turbid+,FNU       ,Surface,NA,0,0,1,0.63,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0720100716,Temporary,Anchialine,Central,HA_Kaloko_058,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0720100716,Temporary,Anchialine,Central,HA_Kaloko_058,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0720100716,Temporary,Anchialine,Central,HA_Kaloko_058,ODOConc,mg/l      ,Surface,NA,0,0,1,7.52,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0720100716,Temporary,Anchialine,Central,HA_Kaloko_058,ODOSat,%         ,Surface,NA,0,0,1,89.48,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0720100716,Temporary,Anchialine,Central,HA_Kaloko_058,pH,None      ,Surface,NA,0,0,1,7.66,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0720100716,Temporary,Anchialine,Central,HA_Kaloko_058,Sal,ppth      ,Surface,NA,0,0,1,12.13,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0720100716,Temporary,Anchialine,Central,HA_Kaloko_058,SpCond,mS/cm     ,Surface,NA,0,0,1,20.26,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0720100716,Temporary,Anchialine,Central,HA_Kaloko_058,Temp,°C,Surface,NA,0,0,1,20.37,NA
+KAHO,7/16/2010,2010.625,2010,0.625,TKAHO0720100716,Temporary,Anchialine,Central,HA_Kaloko_058,Turbid+,FNU       ,Surface,NA,0,0,1,0.64,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.376,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.18,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,100.34,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.86,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.79,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.81,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.4,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,1.26,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,1,0,1,6.866,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.22,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,96.59,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.85,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.01,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,15.41,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.65,NA
+KAHO,11/19/2010,2010.875,2010,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,1.26,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.75,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,105.13,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,8.34,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14.3,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,23.55,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.19,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.41,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.27,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,95.53,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,8.3,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.67,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,16.44,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.57,NA
+KAHO,1/24/2011,2011.125,2011,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.5,NA
+KAHO,1/24/2011,2011.125,2011,0.125,TKAHO0420110124,Temporary,Anchialine,Central,HA_Kaloko_032,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/24/2011,2011.125,2011,0.125,TKAHO0420110124,Temporary,Anchialine,Central,HA_Kaloko_032,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/24/2011,2011.125,2011,0.125,TKAHO0420110124,Temporary,Anchialine,Central,HA_Kaloko_032,ODOConc,mg/l      ,Surface,NA,0,0,1,5.62,NA
+KAHO,1/24/2011,2011.125,2011,0.125,TKAHO0420110124,Temporary,Anchialine,Central,HA_Kaloko_032,ODOSat,%         ,Surface,NA,0,0,1,66.45,NA
+KAHO,1/24/2011,2011.125,2011,0.125,TKAHO0420110124,Temporary,Anchialine,Central,HA_Kaloko_032,pH,None      ,Surface,NA,0,0,1,7.95,NA
+KAHO,1/24/2011,2011.125,2011,0.125,TKAHO0420110124,Temporary,Anchialine,Central,HA_Kaloko_032,Sal,ppth      ,Surface,NA,0,0,1,13.19,NA
+KAHO,1/24/2011,2011.125,2011,0.125,TKAHO0420110124,Temporary,Anchialine,Central,HA_Kaloko_032,SpCond,mS/cm     ,Surface,NA,0,0,1,21.88,NA
+KAHO,1/24/2011,2011.125,2011,0.125,TKAHO0420110124,Temporary,Anchialine,Central,HA_Kaloko_032,Temp,°C,Surface,NA,0,0,1,19.66,NA
+KAHO,1/24/2011,2011.125,2011,0.125,TKAHO0420110124,Temporary,Anchialine,Central,HA_Kaloko_032,Turbid+,FNU       ,Surface,NA,0,0,1,7.16,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.43,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,89.48,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.91,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,11.85,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,19.84,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.1,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,7.99,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,92.19,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.89,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.42,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.46,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.89,NA
+KAHO,4/28/2011,2011.375,2011,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0520110428,Temporary,Anchialine,Central,HA_Kaloko_053H,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0520110428,Temporary,Anchialine,Central,HA_Kaloko_053H,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0520110428,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOConc,mg/l      ,Surface,NA,0,0,1,8.13,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0520110428,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOSat,%         ,Surface,NA,0,0,1,93.31,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0520110428,Temporary,Anchialine,Central,HA_Kaloko_053H,pH,None      ,Surface,NA,0,0,1,7.82,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0520110428,Temporary,Anchialine,Central,HA_Kaloko_053H,Sal,ppth      ,Surface,NA,0,0,1,8.82,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0520110428,Temporary,Anchialine,Central,HA_Kaloko_053H,SpCond,mS/cm     ,Surface,NA,0,0,1,15.09,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0520110428,Temporary,Anchialine,Central,HA_Kaloko_053H,Temp,°C,Surface,NA,0,0,1,19.51,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0520110428,Temporary,Anchialine,Central,HA_Kaloko_053H,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0620110428,Temporary,Anchialine,Central,HA_Kaloko_062,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0620110428,Temporary,Anchialine,Central,HA_Kaloko_062,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0620110428,Temporary,Anchialine,Central,HA_Kaloko_062,ODOConc,mg/l      ,Surface,NA,0,0,1,6.64,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0620110428,Temporary,Anchialine,Central,HA_Kaloko_062,ODOSat,%         ,Surface,NA,0,0,1,78.22,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0620110428,Temporary,Anchialine,Central,HA_Kaloko_062,pH,None      ,Surface,NA,0,0,1,7.76,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0620110428,Temporary,Anchialine,Central,HA_Kaloko_062,Sal,ppth      ,Surface,NA,0,0,1,12.94,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0620110428,Temporary,Anchialine,Central,HA_Kaloko_062,SpCond,mS/cm     ,Surface,NA,0,0,1,21.49,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0620110428,Temporary,Anchialine,Central,HA_Kaloko_062,Temp,°C,Surface,NA,0,0,1,19.56,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0620110428,Temporary,Anchialine,Central,HA_Kaloko_062,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0720110428,Temporary,Anchialine,Central,HA_Kaloko_066,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0720110428,Temporary,Anchialine,Central,HA_Kaloko_066,Chl,µg/l      ,Surface,NA,0,0,1,0.131,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0720110428,Temporary,Anchialine,Central,HA_Kaloko_066,ODOConc,mg/l      ,Surface,NA,0,0,1,6.21,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0720110428,Temporary,Anchialine,Central,HA_Kaloko_066,ODOSat,%         ,Surface,NA,0,0,1,74.83,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0720110428,Temporary,Anchialine,Central,HA_Kaloko_066,pH,None      ,Surface,NA,0,0,1,7.69,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0720110428,Temporary,Anchialine,Central,HA_Kaloko_066,Sal,ppth      ,Surface,NA,0,0,1,12.6,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0720110428,Temporary,Anchialine,Central,HA_Kaloko_066,SpCond,mS/cm     ,Surface,NA,0,0,1,20.98,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0720110428,Temporary,Anchialine,Central,HA_Kaloko_066,Temp,°C,Surface,NA,0,0,1,20.85,NA
+KAHO,4/28/2011,2011.375,2011,0.375,TKAHO0720110428,Temporary,Anchialine,Central,HA_Kaloko_066,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.86,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,97.38,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.92,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.01,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,21.63,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,22.19,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.123,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,7.91,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,95.09,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.71,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.72,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.97,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,21.9,NA
+KAHO,8/12/2011,2011.625,2011,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0120110812,Temporary,Anchialine,Central,HA_Honoko_029,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0120110812,Temporary,Anchialine,Central,HA_Honoko_029,Chl,µg/l      ,Surface,NA,0,0,1,0.293,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0120110812,Temporary,Anchialine,Central,HA_Honoko_029,ODOConc,mg/l      ,Surface,NA,0,0,1,6.67,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0120110812,Temporary,Anchialine,Central,HA_Honoko_029,ODOSat,%         ,Surface,NA,0,0,1,85.64,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0120110812,Temporary,Anchialine,Central,HA_Honoko_029,pH,None      ,Surface,NA,0,0,1,7.75,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0120110812,Temporary,Anchialine,Central,HA_Honoko_029,Sal,ppth      ,Surface,NA,0,0,1,12.12,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0120110812,Temporary,Anchialine,Central,HA_Honoko_029,SpCond,mS/cm     ,Surface,NA,0,0,1,20.31,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0120110812,Temporary,Anchialine,Central,HA_Honoko_029,Temp,°C,Surface,NA,0,0,1,24.4,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0120110812,Temporary,Anchialine,Central,HA_Honoko_029,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0220110812,Temporary,Anchialine,Central,HA_Kaloko_007,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0220110812,Temporary,Anchialine,Central,HA_Kaloko_007,Chl,µg/l      ,Surface,NA,0,0,1,0.369,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0220110812,Temporary,Anchialine,Central,HA_Kaloko_007,ODOConc,mg/l      ,Surface,NA,0,0,1,7.75,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0220110812,Temporary,Anchialine,Central,HA_Kaloko_007,ODOSat,%         ,Surface,NA,0,0,1,97.65,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0220110812,Temporary,Anchialine,Central,HA_Kaloko_007,pH,None      ,Surface,NA,0,0,1,7.78,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0220110812,Temporary,Anchialine,Central,HA_Kaloko_007,Sal,ppth      ,Surface,NA,0,0,1,12.69,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0220110812,Temporary,Anchialine,Central,HA_Kaloko_007,SpCond,mS/cm     ,Surface,NA,0,0,1,21.16,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0220110812,Temporary,Anchialine,Central,HA_Kaloko_007,Temp,°C,Surface,NA,0,0,1,23.21,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0220110812,Temporary,Anchialine,Central,HA_Kaloko_007,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0320110812,Temporary,Anchialine,Central,HA_Kaloko_009,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0320110812,Temporary,Anchialine,Central,HA_Kaloko_009,Chl,µg/l      ,Surface,NA,0,0,1,0.114,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0320110812,Temporary,Anchialine,Central,HA_Kaloko_009,ODOConc,mg/l      ,Surface,NA,0,0,1,7.54,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0320110812,Temporary,Anchialine,Central,HA_Kaloko_009,ODOSat,%         ,Surface,NA,0,0,1,89,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0320110812,Temporary,Anchialine,Central,HA_Kaloko_009,pH,None      ,Surface,NA,0,0,1,7.84,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0320110812,Temporary,Anchialine,Central,HA_Kaloko_009,Sal,ppth      ,Surface,NA,0,0,1,12.3,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0320110812,Temporary,Anchialine,Central,HA_Kaloko_009,SpCond,mS/cm     ,Surface,NA,0,0,1,20.51,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0320110812,Temporary,Anchialine,Central,HA_Kaloko_009,Temp,°C,Surface,NA,0,0,1,19.89,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0320110812,Temporary,Anchialine,Central,HA_Kaloko_009,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0420110812,Temporary,Anchialine,Central,HA_Kaloko_011,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0420110812,Temporary,Anchialine,Central,HA_Kaloko_011,Chl,µg/l      ,Surface,NA,0,0,1,0.331,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0420110812,Temporary,Anchialine,Central,HA_Kaloko_011,ODOConc,mg/l      ,Surface,NA,0,0,1,10.05,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0420110812,Temporary,Anchialine,Central,HA_Kaloko_011,ODOSat,%         ,Surface,NA,0,0,1,129.55,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0420110812,Temporary,Anchialine,Central,HA_Kaloko_011,pH,None      ,Surface,NA,0,0,1,8.04,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0420110812,Temporary,Anchialine,Central,HA_Kaloko_011,Sal,ppth      ,Surface,NA,0,0,1,9.77,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0420110812,Temporary,Anchialine,Central,HA_Kaloko_011,SpCond,mS/cm     ,Surface,NA,0,0,1,16.67,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0420110812,Temporary,Anchialine,Central,HA_Kaloko_011,Temp,°C,Surface,NA,0,0,1,25.42,NA
+KAHO,8/12/2011,2011.625,2011,0.625,TKAHO0420110812,Temporary,Anchialine,Central,HA_Kaloko_011,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,10/27/2011,2011.875,2011,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Mid,NA,0,0,1,NA,NA
+KAHO,10/27/2011,2011.875,2011,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Mid,NA,0,0,1,0.1,NA
+KAHO,10/27/2011,2011.875,2011,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Mid,NA,0,0,1,7.44,NA
+KAHO,10/27/2011,2011.875,2011,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Mid,NA,0,0,1,90.09,NA
+KAHO,10/27/2011,2011.875,2011,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Mid,NA,0,0,1,7.97,NA
+KAHO,10/27/2011,2011.875,2011,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Mid,NA,0,0,1,14.01,NA
+KAHO,10/27/2011,2011.875,2011,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Mid,NA,0,0,1,23.13,NA
+KAHO,10/27/2011,2011.875,2011,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Mid,NA,0,0,1,20.71,NA
+KAHO,10/27/2011,2011.875,2011,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Mid,NA,0,0,1,0.1,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0120111027,Temporary,Anchialine,Central,HA_Kaloko_046,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0120111027,Temporary,Anchialine,Central,HA_Kaloko_046,Chl,µg/l      ,Surface,NA,0,0,1,4.093,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0120111027,Temporary,Anchialine,Central,HA_Kaloko_046,ODOConc,mg/l      ,Surface,NA,0,0,1,6.66,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0120111027,Temporary,Anchialine,Central,HA_Kaloko_046,ODOSat,%         ,Surface,NA,0,0,1,82.36,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0120111027,Temporary,Anchialine,Central,HA_Kaloko_046,pH,None      ,Surface,NA,0,0,1,7.83,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0120111027,Temporary,Anchialine,Central,HA_Kaloko_046,Sal,ppth      ,Surface,NA,0,0,1,13.64,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0120111027,Temporary,Anchialine,Central,HA_Kaloko_046,SpCond,mS/cm     ,Surface,NA,0,0,1,22.58,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0120111027,Temporary,Anchialine,Central,HA_Kaloko_046,Temp,°C,Surface,NA,0,0,1,21.87,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0120111027,Temporary,Anchialine,Central,HA_Kaloko_046,Turbid+,FNU       ,Surface,NA,0,0,1,0.94,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0220111027,Temporary,Anchialine,Central,HA_Kaloko_050,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0220111027,Temporary,Anchialine,Central,HA_Kaloko_050,Chl,µg/l      ,Surface,NA,0,0,1,0.495,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0220111027,Temporary,Anchialine,Central,HA_Kaloko_050,ODOConc,mg/l      ,Surface,NA,0,0,1,7.54,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0220111027,Temporary,Anchialine,Central,HA_Kaloko_050,ODOSat,%         ,Surface,NA,0,0,1,92.87,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0220111027,Temporary,Anchialine,Central,HA_Kaloko_050,pH,None      ,Surface,NA,0,0,1,7.76,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0220111027,Temporary,Anchialine,Central,HA_Kaloko_050,Sal,ppth      ,Surface,NA,0,0,1,10.94,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0220111027,Temporary,Anchialine,Central,HA_Kaloko_050,SpCond,mS/cm     ,Surface,NA,0,0,1,18.45,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0220111027,Temporary,Anchialine,Central,HA_Kaloko_050,Temp,°C,Surface,NA,0,0,1,22.51,NA
+KAHO,10/27/2011,2011.875,2011,0.875,TKAHO0220111027,Temporary,Anchialine,Central,HA_Kaloko_050,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.111,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.78,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,105.57,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.97,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.92,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.99,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.31,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.111,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.78,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,94.7,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.97,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.52,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,16.2,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.31,NA
+KAHO,2/13/2012,2012.125,2012,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0120120213,Temporary,Anchialine,Central,HA_Kaloko_053F,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0120120213,Temporary,Anchialine,Central,HA_Kaloko_053F,Chl,µg/l      ,Surface,NA,0,0,1,0.173,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0120120213,Temporary,Anchialine,Central,HA_Kaloko_053F,ODOConc,mg/l      ,Surface,NA,0,0,1,7.71,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0120120213,Temporary,Anchialine,Central,HA_Kaloko_053F,ODOSat,%         ,Surface,NA,0,0,1,89.66,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0120120213,Temporary,Anchialine,Central,HA_Kaloko_053F,pH,None      ,Surface,NA,0,0,1,7.84,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0120120213,Temporary,Anchialine,Central,HA_Kaloko_053F,Sal,ppth      ,Surface,NA,0,0,1,11.53,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0120120213,Temporary,Anchialine,Central,HA_Kaloko_053F,SpCond,mS/cm     ,Surface,NA,0,0,1,19.32,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0120120213,Temporary,Anchialine,Central,HA_Kaloko_053F,Temp,°C,Surface,NA,0,0,1,19.35,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0120120213,Temporary,Anchialine,Central,HA_Kaloko_053F,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0320120213,Temporary,Anchialine,Central,HA_Kaloko_013,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0320120213,Temporary,Anchialine,Central,HA_Kaloko_013,Chl,µg/l      ,Surface,NA,0,0,1,0.206,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0320120213,Temporary,Anchialine,Central,HA_Kaloko_013,ODOConc,mg/l      ,Surface,NA,0,0,1,7.83,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0320120213,Temporary,Anchialine,Central,HA_Kaloko_013,ODOSat,%         ,Surface,NA,0,0,1,96.37,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0320120213,Temporary,Anchialine,Central,HA_Kaloko_013,pH,None      ,Surface,NA,0,0,1,7.88,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0320120213,Temporary,Anchialine,Central,HA_Kaloko_013,Sal,ppth      ,Surface,NA,0,0,1,11.59,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0320120213,Temporary,Anchialine,Central,HA_Kaloko_013,SpCond,mS/cm     ,Surface,NA,0,0,1,19.45,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0320120213,Temporary,Anchialine,Central,HA_Kaloko_013,Temp,°C,Surface,NA,0,0,1,22.29,NA
+KAHO,2/13/2012,2012.125,2012,0.125,TKAHO0320120213,Temporary,Anchialine,Central,HA_Kaloko_013,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.394,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.84,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,95.8,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,9.24,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.48,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.33,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.33,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.331,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.3,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,96.01,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,9.21,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.99,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,15.36,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.84,NA
+KAHO,4/20/2012,2012.375,2012,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0320120420,Temporary,Anchialine,Central,HA_Honoko_020,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0320120420,Temporary,Anchialine,Central,HA_Honoko_020,Chl,µg/l      ,Surface,NA,0,0,1,0.306,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0320120420,Temporary,Anchialine,Central,HA_Honoko_020,ODOConc,mg/l      ,Surface,NA,0,0,1,8.27,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0320120420,Temporary,Anchialine,Central,HA_Honoko_020,ODOSat,%         ,Surface,NA,0,0,1,93.27,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0320120420,Temporary,Anchialine,Central,HA_Honoko_020,pH,None      ,Surface,NA,0,0,1,9.17,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0320120420,Temporary,Anchialine,Central,HA_Honoko_020,Sal,ppth      ,Surface,NA,0,0,1,5.34,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0320120420,Temporary,Anchialine,Central,HA_Honoko_020,SpCond,mS/cm     ,Surface,NA,0,0,1,9.48,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0320120420,Temporary,Anchialine,Central,HA_Honoko_020,Temp,°C,Surface,NA,0,0,1,19.67,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0320120420,Temporary,Anchialine,Central,HA_Honoko_020,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0420120420,Temporary,Anchialine,Central,HA_Kaloko_032,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0420120420,Temporary,Anchialine,Central,HA_Kaloko_032,Chl,µg/l      ,Surface,NA,0,0,1,1.253,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0420120420,Temporary,Anchialine,Central,HA_Kaloko_032,ODOConc,mg/l      ,Surface,NA,0,0,1,4.56,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0420120420,Temporary,Anchialine,Central,HA_Kaloko_032,ODOSat,%         ,Surface,NA,1,0,1,49.5,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0420120420,Temporary,Anchialine,Central,HA_Kaloko_032,pH,None      ,Surface,NA,0,0,1,9.03,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0420120420,Temporary,Anchialine,Central,HA_Kaloko_032,Sal,ppth      ,Surface,NA,0,0,1,11.21,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0420120420,Temporary,Anchialine,Central,HA_Kaloko_032,SpCond,mS/cm     ,Surface,NA,0,0,1,18.84,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0420120420,Temporary,Anchialine,Central,HA_Kaloko_032,Temp,°C,Surface,NA,0,0,1,20.71,NA
+KAHO,4/20/2012,2012.375,2012,0.375,TKAHO0420120420,Temporary,Anchialine,Central,HA_Kaloko_032,Turbid+,FNU       ,Surface,NA,0,0,1,4.66,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.758,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.03,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,98.01,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.95,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14.11,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,23.29,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.05,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.9,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.28,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,96.78,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.91,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.82,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,16.68,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.13,NA
+KAHO,9/17/2012,2012.625,2012,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0320120917,Temporary,Anchialine,Central,HA_Kaloko_053H,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0320120917,Temporary,Anchialine,Central,HA_Kaloko_053H,Chl,µg/l      ,Surface,NA,0,0,1,0.73,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0320120917,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOConc,mg/l      ,Surface,NA,0,0,1,8.15,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0320120917,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOSat,%         ,Surface,NA,0,0,1,94.65,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0320120917,Temporary,Anchialine,Central,HA_Kaloko_053H,pH,None      ,Surface,NA,0,0,1,7.87,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0320120917,Temporary,Anchialine,Central,HA_Kaloko_053H,Sal,ppth      ,Surface,NA,0,0,1,9.85,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0320120917,Temporary,Anchialine,Central,HA_Kaloko_053H,SpCond,mS/cm     ,Surface,NA,0,0,1,16.72,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0320120917,Temporary,Anchialine,Central,HA_Kaloko_053H,Temp,°C,Surface,NA,0,0,1,19.75,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0320120917,Temporary,Anchialine,Central,HA_Kaloko_053H,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0420120917,Temporary,Anchialine,Central,HA_Honoko_021,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0420120917,Temporary,Anchialine,Central,HA_Honoko_021,Chl,µg/l      ,Surface,NA,0,0,1,0.75,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0420120917,Temporary,Anchialine,Central,HA_Honoko_021,ODOConc,mg/l      ,Surface,NA,0,0,1,6.63,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0420120917,Temporary,Anchialine,Central,HA_Honoko_021,ODOSat,%         ,Surface,NA,0,0,1,78.72,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0420120917,Temporary,Anchialine,Central,HA_Honoko_021,pH,None      ,Surface,NA,0,0,1,7.7,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0420120917,Temporary,Anchialine,Central,HA_Honoko_021,Sal,ppth      ,Surface,NA,0,0,1,13.45,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0420120917,Temporary,Anchialine,Central,HA_Honoko_021,SpCond,mS/cm     ,Surface,NA,0,0,1,22.27,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0420120917,Temporary,Anchialine,Central,HA_Honoko_021,Temp,°C,Surface,NA,0,0,1,19.8,NA
+KAHO,9/17/2012,2012.625,2012,0.625,TKAHO0420120917,Temporary,Anchialine,Central,HA_Honoko_021,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.28,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,98.92,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.8,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.81,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.82,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.05,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Mid,NA,0,0,1,NA,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Mid,NA,0,0,1,0.1,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Mid,NA,0,0,1,8.24,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Mid,NA,0,0,1,95.75,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Mid,NA,0,0,1,7.8,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Mid,NA,0,0,1,9.63,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Mid,NA,0,0,1,16.38,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Mid,NA,0,0,1,19.85,NA
+KAHO,11/29/2012,2012.875,2012,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Mid,NA,0,0,1,0.1,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0120121129,Temporary,Anchialine,Central,HA_Kaloko_009,BP,psi       ,Mid,NA,0,0,1,NA,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0120121129,Temporary,Anchialine,Central,HA_Kaloko_009,Chl,µg/l      ,Mid,NA,0,0,1,0.1,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0120121129,Temporary,Anchialine,Central,HA_Kaloko_009,ODOConc,mg/l      ,Mid,NA,0,0,1,7.35,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0120121129,Temporary,Anchialine,Central,HA_Kaloko_009,ODOSat,%         ,Mid,NA,0,0,1,86.79,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0120121129,Temporary,Anchialine,Central,HA_Kaloko_009,pH,None      ,Mid,NA,0,0,1,7.71,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0120121129,Temporary,Anchialine,Central,HA_Kaloko_009,Sal,ppth      ,Mid,NA,0,0,1,13.59,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0120121129,Temporary,Anchialine,Central,HA_Kaloko_009,SpCond,mS/cm     ,Mid,NA,0,0,1,22.47,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0120121129,Temporary,Anchialine,Central,HA_Kaloko_009,Temp,°C,Mid,NA,0,0,1,19.51,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0120121129,Temporary,Anchialine,Central,HA_Kaloko_009,Turbid+,FNU       ,Mid,NA,0,0,1,0.1,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0220121129,Temporary,Anchialine,Central,HA_Kaloko_012,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0220121129,Temporary,Anchialine,Central,HA_Kaloko_012,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0220121129,Temporary,Anchialine,Central,HA_Kaloko_012,ODOConc,mg/l      ,Surface,NA,0,0,1,6.63,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0220121129,Temporary,Anchialine,Central,HA_Kaloko_012,ODOSat,%         ,Surface,NA,0,0,1,78.81,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0220121129,Temporary,Anchialine,Central,HA_Kaloko_012,pH,None      ,Surface,NA,0,0,1,7.63,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0220121129,Temporary,Anchialine,Central,HA_Kaloko_012,Sal,ppth      ,Surface,NA,0,0,1,13.46,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0220121129,Temporary,Anchialine,Central,HA_Kaloko_012,SpCond,mS/cm     ,Surface,NA,0,0,1,22.28,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0220121129,Temporary,Anchialine,Central,HA_Kaloko_012,Temp,°C,Surface,NA,0,0,1,19.87,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0220121129,Temporary,Anchialine,Central,HA_Kaloko_012,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0320121129,Temporary,Anchialine,Central,HA_Kaloko_053A,BP,psi       ,Mid,NA,0,0,1,NA,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0320121129,Temporary,Anchialine,Central,HA_Kaloko_053A,Chl,µg/l      ,Mid,NA,0,0,1,0.1,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0320121129,Temporary,Anchialine,Central,HA_Kaloko_053A,ODOConc,mg/l      ,Mid,NA,0,0,1,7.42,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0320121129,Temporary,Anchialine,Central,HA_Kaloko_053A,ODOSat,%         ,Mid,NA,0,0,1,87.4,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0320121129,Temporary,Anchialine,Central,HA_Kaloko_053A,pH,None      ,Mid,NA,0,0,1,7.63,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0320121129,Temporary,Anchialine,Central,HA_Kaloko_053A,Sal,ppth      ,Mid,NA,0,0,1,12.93,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0320121129,Temporary,Anchialine,Central,HA_Kaloko_053A,SpCond,mS/cm     ,Mid,NA,0,0,1,21.47,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0320121129,Temporary,Anchialine,Central,HA_Kaloko_053A,Temp,°C,Mid,NA,0,0,1,19.58,NA
+KAHO,11/29/2012,2012.875,2012,0.875,TKAHO0320121129,Temporary,Anchialine,Central,HA_Kaloko_053A,Turbid+,FNU       ,Mid,NA,0,0,1,0.1,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.222,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,98.88,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.9,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.4,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.22,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.94,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,93.03,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.83,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.76,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,16.58,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.9,NA
+KAHO,4/25/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0420130425,Temporary,Anchialine,Central,HA_Kaloko_013,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0420130425,Temporary,Anchialine,Central,HA_Kaloko_013,ODOConc,mg/l      ,Surface,NA,0,0,1,7.48,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0420130425,Temporary,Anchialine,Central,HA_Kaloko_013,ODOSat,%         ,Surface,NA,0,0,1,92.2,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0420130425,Temporary,Anchialine,Central,HA_Kaloko_013,pH,None      ,Surface,NA,0,0,1,7.78,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0420130425,Temporary,Anchialine,Central,HA_Kaloko_013,Sal,ppth      ,Surface,NA,0,0,1,11.17,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0420130425,Temporary,Anchialine,Central,HA_Kaloko_013,SpCond,mS/cm     ,Surface,NA,0,0,1,18.81,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0420130425,Temporary,Anchialine,Central,HA_Kaloko_013,Temp,°C,Surface,NA,0,0,1,22.48,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0420130425,Temporary,Anchialine,Central,HA_Kaloko_013,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0820130425,Temporary,Anchialine,Central,HA_Kaloko_009,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0820130425,Temporary,Anchialine,Central,HA_Kaloko_009,ODOConc,mg/l      ,Surface,NA,0,0,1,7.51,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0820130425,Temporary,Anchialine,Central,HA_Kaloko_009,ODOSat,%         ,Surface,NA,0,0,1,88.2,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0820130425,Temporary,Anchialine,Central,HA_Kaloko_009,pH,None      ,Surface,NA,0,0,1,7.78,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0820130425,Temporary,Anchialine,Central,HA_Kaloko_009,Sal,ppth      ,Surface,NA,0,0,1,12.64,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0820130425,Temporary,Anchialine,Central,HA_Kaloko_009,SpCond,mS/cm     ,Surface,NA,0,0,1,21.03,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0820130425,Temporary,Anchialine,Central,HA_Kaloko_009,Temp,°C,Surface,NA,0,0,1,19.52,NA
+KAHO,4/25/2013,2013.375,2013,0.375,TKAHO0820130425,Temporary,Anchialine,Central,HA_Kaloko_009,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.04,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,99.38,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.94,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.51,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.38,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.93,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.33,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,97.36,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.95,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.99,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,15.38,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.35,NA
+KAHO,6/13/2013,2013.375,2013,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO0920130613,Temporary,Anchialine,Central,HA_Honoko_020,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO0920130613,Temporary,Anchialine,Central,HA_Honoko_020,ODOConc,mg/l      ,Surface,NA,0,0,1,7.7,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO0920130613,Temporary,Anchialine,Central,HA_Honoko_020,ODOSat,%         ,Surface,NA,0,0,1,90.58,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO0920130613,Temporary,Anchialine,Central,HA_Honoko_020,pH,None      ,Surface,NA,0,0,1,7.86,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO0920130613,Temporary,Anchialine,Central,HA_Honoko_020,Sal,ppth      ,Surface,NA,0,0,1,11.43,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO0920130613,Temporary,Anchialine,Central,HA_Honoko_020,SpCond,mS/cm     ,Surface,NA,0,0,1,19.18,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO0920130613,Temporary,Anchialine,Central,HA_Honoko_020,Temp,°C,Surface,NA,0,0,1,19.94,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO0920130613,Temporary,Anchialine,Central,HA_Honoko_020,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO1120130613,Temporary,Anchialine,Central,HA_Kaloko_053H,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO1120130613,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOConc,mg/l      ,Surface,NA,0,0,1,8.25,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO1120130613,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOSat,%         ,Surface,NA,0,0,1,95.47,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO1120130613,Temporary,Anchialine,Central,HA_Kaloko_053H,pH,None      ,Surface,NA,0,0,1,7.87,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO1120130613,Temporary,Anchialine,Central,HA_Kaloko_053H,Sal,ppth      ,Surface,NA,0,0,1,8.97,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO1120130613,Temporary,Anchialine,Central,HA_Kaloko_053H,SpCond,mS/cm     ,Surface,NA,0,0,1,15.35,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO1120130613,Temporary,Anchialine,Central,HA_Kaloko_053H,Temp,°C,Surface,NA,0,0,1,19.84,NA
+KAHO,6/13/2013,2013.375,2013,0.375,TKAHO1120130613,Temporary,Anchialine,Central,HA_Kaloko_053H,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.147,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.66,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,95.08,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.84,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.55,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.45,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,22.15,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.08,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,95.34,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.76,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.84,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,15.14,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.9,NA
+KAHO,9/19/2013,2013.625,2013,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,4.88,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0120130919,Temporary,Anchialine,Central,HA_Kaloko_011,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0120130919,Temporary,Anchialine,Central,HA_Kaloko_011,Chl,µg/l      ,Surface,NA,0,0,1,0.305,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0120130919,Temporary,Anchialine,Central,HA_Kaloko_011,ODOConc,mg/l      ,Surface,NA,0,0,1,8.82,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0120130919,Temporary,Anchialine,Central,HA_Kaloko_011,ODOSat,%         ,Surface,NA,0,0,1,106.67,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0120130919,Temporary,Anchialine,Central,HA_Kaloko_011,pH,None      ,Surface,NA,0,0,1,7.86,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0120130919,Temporary,Anchialine,Central,HA_Kaloko_011,Sal,ppth      ,Surface,NA,0,0,1,9.42,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0120130919,Temporary,Anchialine,Central,HA_Kaloko_011,SpCond,mS/cm     ,Surface,NA,0,0,1,16.07,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0120130919,Temporary,Anchialine,Central,HA_Kaloko_011,Temp,°C,Surface,NA,0,0,1,22.04,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0120130919,Temporary,Anchialine,Central,HA_Kaloko_011,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0220130919,Temporary,Anchialine,Central,HA_Kaloko_012,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0220130919,Temporary,Anchialine,Central,HA_Kaloko_012,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0220130919,Temporary,Anchialine,Central,HA_Kaloko_012,ODOConc,mg/l      ,Surface,NA,0,0,1,6.47,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0220130919,Temporary,Anchialine,Central,HA_Kaloko_012,ODOSat,%         ,Surface,NA,0,0,1,77.39,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0220130919,Temporary,Anchialine,Central,HA_Kaloko_012,pH,None      ,Surface,NA,0,0,1,7.7,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0220130919,Temporary,Anchialine,Central,HA_Kaloko_012,Sal,ppth      ,Surface,NA,0,0,1,13.21,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0220130919,Temporary,Anchialine,Central,HA_Kaloko_012,SpCond,mS/cm     ,Surface,NA,0,0,1,21.91,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0220130919,Temporary,Anchialine,Central,HA_Kaloko_012,Temp,°C,Surface,NA,0,0,1,20.31,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0220130919,Temporary,Anchialine,Central,HA_Kaloko_012,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0320130919,Temporary,Anchialine,Central,HA_Kaloko_009,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0320130919,Temporary,Anchialine,Central,HA_Kaloko_009,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0320130919,Temporary,Anchialine,Central,HA_Kaloko_009,ODOConc,mg/l      ,Surface,NA,0,0,1,11.25,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0320130919,Temporary,Anchialine,Central,HA_Kaloko_009,ODOSat,%         ,Surface,NA,0,0,1,147.5,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0320130919,Temporary,Anchialine,Central,HA_Kaloko_009,pH,None      ,Surface,NA,0,0,1,7.95,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0320130919,Temporary,Anchialine,Central,HA_Kaloko_009,Sal,ppth      ,Surface,NA,0,0,1,12.5,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0320130919,Temporary,Anchialine,Central,HA_Kaloko_009,SpCond,mS/cm     ,Surface,NA,0,0,1,20.91,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0320130919,Temporary,Anchialine,Central,HA_Kaloko_009,Temp,°C,Surface,NA,0,0,1,25.45,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0320130919,Temporary,Anchialine,Central,HA_Kaloko_009,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0420130919,Temporary,Anchialine,Central,HA_Kaloko_009,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0420130919,Temporary,Anchialine,Central,HA_Kaloko_009,Chl,µg/l      ,Surface,NA,0,0,1,0.205,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0420130919,Temporary,Anchialine,Central,HA_Kaloko_009,ODOConc,mg/l      ,Surface,NA,0,0,1,7.3,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0420130919,Temporary,Anchialine,Central,HA_Kaloko_009,ODOSat,%         ,Surface,NA,0,0,1,87.03,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0420130919,Temporary,Anchialine,Central,HA_Kaloko_009,pH,None      ,Surface,NA,0,0,1,7.7,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0420130919,Temporary,Anchialine,Central,HA_Kaloko_009,Sal,ppth      ,Surface,NA,0,0,1,12.96,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0420130919,Temporary,Anchialine,Central,HA_Kaloko_009,SpCond,mS/cm     ,Surface,NA,0,0,1,21.53,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0420130919,Temporary,Anchialine,Central,HA_Kaloko_009,Temp,°C,Surface,NA,0,0,1,20.19,NA
+KAHO,9/19/2013,2013.625,2013,0.625,TKAHO0420130919,Temporary,Anchialine,Central,HA_Kaloko_009,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,98.1,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.91,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.91,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.99,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.36,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,1,0,1,80.71,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Mid,NA,0,0,1,NA,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Mid,NA,0,0,1,0.1,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Mid,NA,0,0,1,8.37,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Mid,NA,0,0,1,98.31,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Mid,NA,0,0,1,7.88,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Mid,NA,0,0,1,9.21,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Mid,NA,0,0,1,15.73,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Mid,NA,0,0,1,20.57,NA
+KAHO,11/18/2013,2013.875,2013,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Mid,NA,1,0,1,176.79,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0320131118,Temporary,Anchialine,Central,HA_Kaloko_046,BP,psi       ,Bottom,NA,0,0,1,NA,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0320131118,Temporary,Anchialine,Central,HA_Kaloko_046,Chl,µg/l      ,Bottom,NA,0,0,1,0.1,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0320131118,Temporary,Anchialine,Central,HA_Kaloko_046,ODOConc,mg/l      ,Bottom,NA,0,0,1,6.99,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0320131118,Temporary,Anchialine,Central,HA_Kaloko_046,ODOSat,%         ,Bottom,NA,0,0,1,82.6,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0320131118,Temporary,Anchialine,Central,HA_Kaloko_046,pH,None      ,Bottom,NA,0,0,1,7.79,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0320131118,Temporary,Anchialine,Central,HA_Kaloko_046,Sal,ppth      ,Bottom,NA,0,0,1,12.74,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0320131118,Temporary,Anchialine,Central,HA_Kaloko_046,SpCond,mS/cm     ,Bottom,NA,0,0,1,21.18,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0320131118,Temporary,Anchialine,Central,HA_Kaloko_046,Temp,°C,Bottom,NA,0,0,1,19.76,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0320131118,Temporary,Anchialine,Central,HA_Kaloko_046,Turbid+,FNU       ,Bottom,NA,1,0,1,124.79,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0420131118,Temporary,Anchialine,Central,HA_Kaloko_050,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0420131118,Temporary,Anchialine,Central,HA_Kaloko_050,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0420131118,Temporary,Anchialine,Central,HA_Kaloko_050,ODOConc,mg/l      ,Surface,NA,0,0,1,6.98,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0420131118,Temporary,Anchialine,Central,HA_Kaloko_050,ODOSat,%         ,Surface,NA,0,0,1,82.24,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0420131118,Temporary,Anchialine,Central,HA_Kaloko_050,pH,None      ,Surface,NA,0,0,1,7.57,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0420131118,Temporary,Anchialine,Central,HA_Kaloko_050,Sal,ppth      ,Surface,NA,0,0,1,12.4,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0420131118,Temporary,Anchialine,Central,HA_Kaloko_050,SpCond,mS/cm     ,Surface,NA,0,0,1,20.67,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0420131118,Temporary,Anchialine,Central,HA_Kaloko_050,Temp,°C,Surface,NA,0,0,1,19.79,NA
+KAHO,11/18/2013,2013.875,2013,0.875,TKAHO0420131118,Temporary,Anchialine,Central,HA_Kaloko_050,Turbid+,FNU       ,Surface,NA,1,0,1,27.12,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,1,0,1,502.1,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,3.68,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,50.6,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,1,0,1,7.21,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,1,0,1,39.69,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,1,0,1,59.23,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,19.42,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,1,0,1,538.4,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,7.8,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,95.27,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.82,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,1,0,1,18.84,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,1,0,1,30.31,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.64,NA
+KAHO,1/15/2014,2014.125,2014,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,1.08,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0220140115,Temporary,Anchialine,Central,HA_Kaloko_057F,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0220140115,Temporary,Anchialine,Central,HA_Kaloko_057F,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0220140115,Temporary,Anchialine,Central,HA_Kaloko_057F,ODOConc,mg/l      ,Surface,NA,0,0,1,6.83,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0220140115,Temporary,Anchialine,Central,HA_Kaloko_057F,ODOSat,%         ,Surface,NA,0,0,1,86.22,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0220140115,Temporary,Anchialine,Central,HA_Kaloko_057F,pH,None      ,Surface,NA,0,0,1,7.76,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0220140115,Temporary,Anchialine,Central,HA_Kaloko_057F,Sal,ppth      ,Surface,NA,1,0,1,25.83,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0220140115,Temporary,Anchialine,Central,HA_Kaloko_057F,SpCond,mS/cm     ,Surface,NA,1,0,1,40.34,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0220140115,Temporary,Anchialine,Central,HA_Kaloko_057F,Temp,°C,Surface,NA,0,0,1,19.19,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0220140115,Temporary,Anchialine,Central,HA_Kaloko_057F,Turbid+,FNU       ,Surface,NA,0,0,1,8.08,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0320140115,Temporary,Anchialine,Central,HA_Honoko_020,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0320140115,Temporary,Anchialine,Central,HA_Honoko_020,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0320140115,Temporary,Anchialine,Central,HA_Honoko_020,ODOConc,mg/l      ,Surface,NA,0,0,1,7,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0320140115,Temporary,Anchialine,Central,HA_Honoko_020,ODOSat,%         ,Surface,NA,0,0,1,87.81,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0320140115,Temporary,Anchialine,Central,HA_Honoko_020,pH,None      ,Surface,NA,0,0,1,7.75,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0320140115,Temporary,Anchialine,Central,HA_Honoko_020,Sal,ppth      ,Surface,NA,1,0,1,24.46,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0320140115,Temporary,Anchialine,Central,HA_Honoko_020,SpCond,mS/cm     ,Surface,NA,1,0,1,38.4,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0320140115,Temporary,Anchialine,Central,HA_Honoko_020,Temp,°C,Surface,NA,0,0,1,19.31,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0320140115,Temporary,Anchialine,Central,HA_Honoko_020,Turbid+,FNU       ,Surface,NA,0,0,1,1.8,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0420140115,Temporary,Anchialine,Central,HA_Kaloko_032,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0420140115,Temporary,Anchialine,Central,HA_Kaloko_032,Chl,µg/l      ,Surface,NA,0,0,1,2.368,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0420140115,Temporary,Anchialine,Central,HA_Kaloko_032,ODOConc,mg/l      ,Surface,NA,0,0,1,4.29,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0420140115,Temporary,Anchialine,Central,HA_Kaloko_032,ODOSat,%         ,Surface,NA,0,0,1,53.54,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0420140115,Temporary,Anchialine,Central,HA_Kaloko_032,pH,None      ,Surface,NA,0,0,1,7.32,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0420140115,Temporary,Anchialine,Central,HA_Kaloko_032,Sal,ppth      ,Surface,NA,1,0,1,15.65,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0420140115,Temporary,Anchialine,Central,HA_Kaloko_032,SpCond,mS/cm     ,Surface,NA,1,0,1,25.61,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0420140115,Temporary,Anchialine,Central,HA_Kaloko_032,Temp,°C,Surface,NA,0,0,1,21.79,NA
+KAHO,1/15/2014,2014.125,2014,0.125,TKAHO0420140115,Temporary,Anchialine,Central,HA_Kaloko_032,Turbid+,FNU       ,Surface,NA,0,0,1,7.51,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.305,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.2,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,102.25,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,8.04,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,12.86,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,21.41,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,22.56,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.273,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.13,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,94.41,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,8.01,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.42,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.48,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.24,NA
+KAHO,6/2/2014,2014.375,2014,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/2/2014,2014.375,2014,0.375,TKAHO0220140602,Temporary,Anchialine,Central,HA_Kaloko_053H,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,6/2/2014,2014.375,2014,0.375,TKAHO0220140602,Temporary,Anchialine,Central,HA_Kaloko_053H,Chl,µg/l      ,Surface,NA,0,0,1,0.775,NA
+KAHO,6/2/2014,2014.375,2014,0.375,TKAHO0220140602,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOConc,mg/l      ,Surface,NA,0,0,1,8.21,NA
+KAHO,6/2/2014,2014.375,2014,0.375,TKAHO0220140602,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOSat,%         ,Surface,NA,0,0,1,94.56,NA
+KAHO,6/2/2014,2014.375,2014,0.375,TKAHO0220140602,Temporary,Anchialine,Central,HA_Kaloko_053H,pH,None      ,Surface,NA,0,0,1,7.99,NA
+KAHO,6/2/2014,2014.375,2014,0.375,TKAHO0220140602,Temporary,Anchialine,Central,HA_Kaloko_053H,Sal,ppth      ,Surface,NA,0,0,1,8.53,NA
+KAHO,6/2/2014,2014.375,2014,0.375,TKAHO0220140602,Temporary,Anchialine,Central,HA_Kaloko_053H,SpCond,mS/cm     ,Surface,NA,0,0,1,14.63,NA
+KAHO,6/2/2014,2014.375,2014,0.375,TKAHO0220140602,Temporary,Anchialine,Central,HA_Kaloko_053H,Temp,°C,Surface,NA,0,0,1,19.75,NA
+KAHO,6/2/2014,2014.375,2014,0.375,TKAHO0220140602,Temporary,Anchialine,Central,HA_Kaloko_053H,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.86,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,97.82,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.77,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.27,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.03,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,22.39,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.23,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,97.12,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.77,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.13,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.02,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,21.14,NA
+KAHO,8/28/2014,2014.625,2014,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0220140828,Temporary,Anchialine,Central,HA_Kaloko_049,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0220140828,Temporary,Anchialine,Central,HA_Kaloko_049,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0220140828,Temporary,Anchialine,Central,HA_Kaloko_049,ODOConc,mg/l      ,Surface,NA,0,0,1,6.77,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0220140828,Temporary,Anchialine,Central,HA_Kaloko_049,ODOSat,%         ,Surface,NA,0,0,1,80.76,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0220140828,Temporary,Anchialine,Central,HA_Kaloko_049,pH,None      ,Surface,NA,0,0,1,7.56,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0220140828,Temporary,Anchialine,Central,HA_Kaloko_049,Sal,ppth      ,Surface,NA,0,0,1,14.42,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0220140828,Temporary,Anchialine,Central,HA_Kaloko_049,SpCond,mS/cm     ,Surface,NA,0,0,1,23.73,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0220140828,Temporary,Anchialine,Central,HA_Kaloko_049,Temp,°C,Surface,NA,0,0,1,19.75,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0220140828,Temporary,Anchialine,Central,HA_Kaloko_049,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0320140828,Temporary,Anchialine,Central,HA_Kaloko_013,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0320140828,Temporary,Anchialine,Central,HA_Kaloko_013,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0320140828,Temporary,Anchialine,Central,HA_Kaloko_013,ODOConc,mg/l      ,Surface,NA,0,0,1,7.81,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0320140828,Temporary,Anchialine,Central,HA_Kaloko_013,ODOSat,%         ,Surface,NA,0,0,1,95.25,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0320140828,Temporary,Anchialine,Central,HA_Kaloko_013,pH,None      ,Surface,NA,0,0,1,7.64,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0320140828,Temporary,Anchialine,Central,HA_Kaloko_013,Sal,ppth      ,Surface,NA,0,0,1,9,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0320140828,Temporary,Anchialine,Central,HA_Kaloko_013,SpCond,mS/cm     ,Surface,NA,0,0,1,15.42,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0320140828,Temporary,Anchialine,Central,HA_Kaloko_013,Temp,°C,Surface,NA,0,0,1,22.59,NA
+KAHO,8/28/2014,2014.625,2014,0.625,TKAHO0320140828,Temporary,Anchialine,Central,HA_Kaloko_013,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,1,0,1,162.147,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.04,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,97.12,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.76,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.16,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,21.84,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.83,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,1,0,1,159.5,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.51,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,98.56,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.69,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.65,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.84,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.03,NA
+KAHO,12/4/2014,2014.875,2014,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0120141204,Temporary,Anchialine,Central,HA_Kaloko_011,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0120141204,Temporary,Anchialine,Central,HA_Kaloko_011,Chl,µg/l      ,Surface,NA,0,0,1,12.375,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0120141204,Temporary,Anchialine,Central,HA_Kaloko_011,ODOConc,mg/l      ,Surface,NA,0,0,1,7.85,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0120141204,Temporary,Anchialine,Central,HA_Kaloko_011,ODOSat,%         ,Surface,NA,0,0,1,92.91,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0120141204,Temporary,Anchialine,Central,HA_Kaloko_011,pH,None      ,Surface,NA,0,0,1,7.64,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0120141204,Temporary,Anchialine,Central,HA_Kaloko_011,Sal,ppth      ,Surface,NA,0,0,1,10.14,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0120141204,Temporary,Anchialine,Central,HA_Kaloko_011,SpCond,mS/cm     ,Surface,NA,0,0,1,17.18,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0120141204,Temporary,Anchialine,Central,HA_Kaloko_011,Temp,°C,Surface,NA,0,0,1,20.65,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0120141204,Temporary,Anchialine,Central,HA_Kaloko_011,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0220141204,Temporary,Anchialine,Central,HA_Kaloko_032,BP,psi       ,Bottom,NA,0,0,1,NA,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0220141204,Temporary,Anchialine,Central,HA_Kaloko_032,Chl,µg/l      ,Bottom,NA,0,0,1,5.27,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0220141204,Temporary,Anchialine,Central,HA_Kaloko_032,ODOConc,mg/l      ,Bottom,NA,0,0,1,1.88,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0220141204,Temporary,Anchialine,Central,HA_Kaloko_032,ODOSat,%         ,Bottom,NA,0,0,1,22.57,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0220141204,Temporary,Anchialine,Central,HA_Kaloko_032,pH,None      ,Bottom,NA,0,0,1,6.87,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0220141204,Temporary,Anchialine,Central,HA_Kaloko_032,Sal,ppth      ,Bottom,NA,0,0,1,11.12,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0220141204,Temporary,Anchialine,Central,HA_Kaloko_032,SpCond,mS/cm     ,Bottom,NA,0,0,1,18.71,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0220141204,Temporary,Anchialine,Central,HA_Kaloko_032,Temp,°C,Bottom,NA,0,0,1,21.18,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0220141204,Temporary,Anchialine,Central,HA_Kaloko_032,Turbid+,FNU       ,Bottom,NA,0,0,1,0.1,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0320141204,Temporary,Anchialine,Central,HA_Kaloko_046,BP,psi       ,Bottom,NA,0,0,1,NA,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0320141204,Temporary,Anchialine,Central,HA_Kaloko_046,Chl,µg/l      ,Bottom,NA,1,0,1,47.775,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0320141204,Temporary,Anchialine,Central,HA_Kaloko_046,ODOConc,mg/l      ,Bottom,NA,0,0,1,7.09,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0320141204,Temporary,Anchialine,Central,HA_Kaloko_046,ODOSat,%         ,Bottom,NA,0,0,1,83.43,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0320141204,Temporary,Anchialine,Central,HA_Kaloko_046,pH,None      ,Bottom,NA,0,0,1,7.62,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0320141204,Temporary,Anchialine,Central,HA_Kaloko_046,Sal,ppth      ,Bottom,NA,0,0,1,12.96,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0320141204,Temporary,Anchialine,Central,HA_Kaloko_046,SpCond,mS/cm     ,Bottom,NA,0,0,1,21.52,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0320141204,Temporary,Anchialine,Central,HA_Kaloko_046,Temp,°C,Bottom,NA,0,0,1,19.5,NA
+KAHO,12/4/2014,2014.875,2014,0.875,TKAHO0320141204,Temporary,Anchialine,Central,HA_Kaloko_046,Turbid+,FNU       ,Bottom,NA,0,0,1,0.1,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.09,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,97.34,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.98,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.87,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.91,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.4,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.31,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,96.31,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.96,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.16,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,15.64,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.88,NA
+KAHO,2/19/2015,2015.125,2015,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/19/2015,2015.125,2015,0.125,TKAHO0120150219,Temporary,Anchialine,Central,HA_Kaloko_046,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/19/2015,2015.125,2015,0.125,TKAHO0120150219,Temporary,Anchialine,Central,HA_Kaloko_046,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/19/2015,2015.125,2015,0.125,TKAHO0120150219,Temporary,Anchialine,Central,HA_Kaloko_046,ODOConc,mg/l      ,Surface,NA,0,0,1,7.21,NA
+KAHO,2/19/2015,2015.125,2015,0.125,TKAHO0120150219,Temporary,Anchialine,Central,HA_Kaloko_046,ODOSat,%         ,Surface,NA,0,0,1,84.66,NA
+KAHO,2/19/2015,2015.125,2015,0.125,TKAHO0120150219,Temporary,Anchialine,Central,HA_Kaloko_046,pH,None      ,Surface,NA,0,0,1,7.85,NA
+KAHO,2/19/2015,2015.125,2015,0.125,TKAHO0120150219,Temporary,Anchialine,Central,HA_Kaloko_046,Sal,ppth      ,Surface,NA,0,0,1,13.19,NA
+KAHO,2/19/2015,2015.125,2015,0.125,TKAHO0120150219,Temporary,Anchialine,Central,HA_Kaloko_046,SpCond,mS/cm     ,Surface,NA,0,0,1,21.87,NA
+KAHO,2/19/2015,2015.125,2015,0.125,TKAHO0120150219,Temporary,Anchialine,Central,HA_Kaloko_046,Temp,°C,Surface,NA,0,0,1,19.32,NA
+KAHO,2/19/2015,2015.125,2015,0.125,TKAHO0120150219,Temporary,Anchialine,Central,HA_Kaloko_046,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,6.69,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,1,0,1,83.36,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.72,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.21,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,21.94,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,22.48,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.26,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,7.92,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,92.18,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.79,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.61,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.77,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.27,NA
+KAHO,6/30/2015,2015.375,2015,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0320150630,Temporary,Anchialine,Central,HA_Kaloko_007,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0320150630,Temporary,Anchialine,Central,HA_Kaloko_007,Chl,µg/l      ,Surface,NA,0,0,1,11.28,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0320150630,Temporary,Anchialine,Central,HA_Kaloko_007,ODOConc,mg/l      ,Surface,NA,0,0,1,2.55,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0320150630,Temporary,Anchialine,Central,HA_Kaloko_007,ODOSat,%         ,Surface,NA,0,0,1,32.78,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0320150630,Temporary,Anchialine,Central,HA_Kaloko_007,pH,None      ,Surface,NA,0,0,1,7.1,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0320150630,Temporary,Anchialine,Central,HA_Kaloko_007,Sal,ppth      ,Surface,NA,0,0,1,6.41,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0320150630,Temporary,Anchialine,Central,HA_Kaloko_007,SpCond,mS/cm     ,Surface,NA,0,0,1,11.31,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0320150630,Temporary,Anchialine,Central,HA_Kaloko_007,Temp,°C,Surface,NA,0,0,1,26.31,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0320150630,Temporary,Anchialine,Central,HA_Kaloko_007,Turbid+,FNU       ,Surface,NA,1,0,1,47.78,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0420150630,Temporary,Anchialine,Central,HA_Kaloko_032,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0420150630,Temporary,Anchialine,Central,HA_Kaloko_032,Chl,µg/l      ,Surface,NA,1,0,1,9.247,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0420150630,Temporary,Anchialine,Central,HA_Kaloko_032,ODOConc,mg/l      ,Surface,NA,0,0,1,1.15,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0420150630,Temporary,Anchialine,Central,HA_Kaloko_032,ODOSat,%         ,Surface,NA,0,0,1,14.33,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0420150630,Temporary,Anchialine,Central,HA_Kaloko_032,pH,None      ,Surface,NA,0,0,1,7.22,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0420150630,Temporary,Anchialine,Central,HA_Kaloko_032,Sal,ppth      ,Surface,NA,0,0,1,11.71,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0420150630,Temporary,Anchialine,Central,HA_Kaloko_032,SpCond,mS/cm     ,Surface,NA,0,0,1,19.64,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0420150630,Temporary,Anchialine,Central,HA_Kaloko_032,Temp,°C,Surface,NA,0,0,1,22.65,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0420150630,Temporary,Anchialine,Central,HA_Kaloko_032,Turbid+,FNU       ,Surface,NA,0,0,1,0.77,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0520150630,Temporary,Anchialine,Central,HA_Kaloko_050,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0520150630,Temporary,Anchialine,Central,HA_Kaloko_050,Chl,µg/l      ,Surface,NA,0,0,1,0.28,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0520150630,Temporary,Anchialine,Central,HA_Kaloko_050,ODOConc,mg/l      ,Surface,NA,0,0,1,7.09,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0520150630,Temporary,Anchialine,Central,HA_Kaloko_050,ODOSat,%         ,Surface,NA,0,0,1,83.5,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0520150630,Temporary,Anchialine,Central,HA_Kaloko_050,pH,None      ,Surface,NA,0,0,1,7.75,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0520150630,Temporary,Anchialine,Central,HA_Kaloko_050,Sal,ppth      ,Surface,NA,0,0,1,12.08,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0520150630,Temporary,Anchialine,Central,HA_Kaloko_050,SpCond,mS/cm     ,Surface,NA,0,0,1,20.18,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0520150630,Temporary,Anchialine,Central,HA_Kaloko_050,Temp,°C,Surface,NA,0,0,1,19.81,NA
+KAHO,6/30/2015,2015.375,2015,0.375,TKAHO0520150630,Temporary,Anchialine,Central,HA_Kaloko_050,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.4895,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,96.8,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,8.2925,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,17.604,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,28.5315,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,23.0925,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,7.96,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,96.1,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,8.126,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,11.1295,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,18.729,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,21.443,NA
+KAHO,9/1/2015,2015.625,2015,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0220150901,Temporary,Anchialine,Central,HA_Kaloko_066,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0220150901,Temporary,Anchialine,Central,HA_Kaloko_066,Chl,µg/l      ,Surface,NA,0,0,1,0.175,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0220150901,Temporary,Anchialine,Central,HA_Kaloko_066,ODOConc,mg/l      ,Surface,NA,0,0,1,6.4365,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0220150901,Temporary,Anchialine,Central,HA_Kaloko_066,ODOSat,%         ,Surface,NA,0,0,1,80.995,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0220150901,Temporary,Anchialine,Central,HA_Kaloko_066,pH,None      ,Surface,NA,0,0,1,8.098,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0220150901,Temporary,Anchialine,Central,HA_Kaloko_066,Sal,ppth      ,Surface,NA,0,0,1,17.309,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0220150901,Temporary,Anchialine,Central,HA_Kaloko_066,SpCond,mS/cm     ,Surface,NA,0,0,1,28.073,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0220150901,Temporary,Anchialine,Central,HA_Kaloko_066,Temp,°C,Surface,NA,0,0,1,21.736,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0220150901,Temporary,Anchialine,Central,HA_Kaloko_066,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0420150901,Temporary,Anchialine,Central,HA_Honoko_020,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0420150901,Temporary,Anchialine,Central,HA_Honoko_020,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0420150901,Temporary,Anchialine,Central,HA_Honoko_020,ODOConc,mg/l      ,Surface,NA,0,0,1,7.33,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0420150901,Temporary,Anchialine,Central,HA_Honoko_020,ODOSat,%         ,Surface,NA,0,0,1,88.395,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0420150901,Temporary,Anchialine,Central,HA_Honoko_020,pH,None      ,Surface,NA,0,0,1,7.7955,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0420150901,Temporary,Anchialine,Central,HA_Honoko_020,Sal,ppth      ,Surface,NA,0,0,1,14.5755,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0420150901,Temporary,Anchialine,Central,HA_Honoko_020,SpCond,mS/cm     ,Surface,NA,0,0,1,23.973,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0420150901,Temporary,Anchialine,Central,HA_Honoko_020,Temp,°C,Surface,NA,0,0,1,20.3235,NA
+KAHO,9/1/2015,2015.625,2015,0.625,TKAHO0420150901,Temporary,Anchialine,Central,HA_Honoko_020,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,1,0,1,9.3421,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,9.49,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,111.6263,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.9221,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.0036,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,21.5831,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,19.5168,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,1,0,1,3.6263,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,9.7573,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,112.3105,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.6384,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.6105,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.7642,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.7331,NA
+KAHO,12/9/2015,2015.875,2015,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0120151209,Temporary,Anchialine,Central,HA_Kaloko_057F,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0120151209,Temporary,Anchialine,Central,HA_Kaloko_057F,Chl,µg/l      ,Surface,NA,1,0,1,7.615,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0120151209,Temporary,Anchialine,Central,HA_Kaloko_057F,ODOConc,mg/l      ,Surface,NA,0,0,1,8.519,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0120151209,Temporary,Anchialine,Central,HA_Kaloko_057F,ODOSat,%         ,Surface,NA,0,0,1,99.31,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0120151209,Temporary,Anchialine,Central,HA_Kaloko_057F,pH,None      ,Surface,NA,0,0,1,7.97,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0120151209,Temporary,Anchialine,Central,HA_Kaloko_057F,Sal,ppth      ,Surface,NA,0,0,1,12.299,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0120151209,Temporary,Anchialine,Central,HA_Kaloko_057F,SpCond,mS/cm     ,Surface,NA,0,0,1,20.508,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0120151209,Temporary,Anchialine,Central,HA_Kaloko_057F,Temp,°C,Surface,NA,0,0,1,19.254,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0120151209,Temporary,Anchialine,Central,HA_Kaloko_057F,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0220151209,Temporary,Anchialine,Central,HA_Kaloko_053A,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0220151209,Temporary,Anchialine,Central,HA_Kaloko_053A,Chl,µg/l      ,Surface,NA,1,0,1,10.5969,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0220151209,Temporary,Anchialine,Central,HA_Kaloko_053A,ODOConc,mg/l      ,Surface,NA,0,0,1,8.7284,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0220151209,Temporary,Anchialine,Central,HA_Kaloko_053A,ODOSat,%         ,Surface,NA,0,0,1,102.1878,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0220151209,Temporary,Anchialine,Central,HA_Kaloko_053A,pH,None      ,Surface,NA,0,0,1,8.0475,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0220151209,Temporary,Anchialine,Central,HA_Kaloko_053A,Sal,ppth      ,Surface,NA,0,0,1,12.3751,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0220151209,Temporary,Anchialine,Central,HA_Kaloko_053A,SpCond,mS/cm     ,Surface,NA,0,0,1,20.6236,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0220151209,Temporary,Anchialine,Central,HA_Kaloko_053A,Temp,°C,Surface,NA,0,0,1,19.4633,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0220151209,Temporary,Anchialine,Central,HA_Kaloko_053A,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0320151209,Temporary,Anchialine,Central,HA_Kaloko_053H,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0320151209,Temporary,Anchialine,Central,HA_Kaloko_053H,Chl,µg/l      ,Surface,NA,1,0,1,11.015,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0320151209,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOConc,mg/l      ,Surface,NA,0,0,1,9.6755,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0320151209,Temporary,Anchialine,Central,HA_Kaloko_053H,ODOSat,%         ,Surface,NA,0,0,1,110.46,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0320151209,Temporary,Anchialine,Central,HA_Kaloko_053H,pH,None      ,Surface,NA,0,0,1,8.076,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0320151209,Temporary,Anchialine,Central,HA_Kaloko_053H,Sal,ppth      ,Surface,NA,0,0,1,8.517,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0320151209,Temporary,Anchialine,Central,HA_Kaloko_053H,SpCond,mS/cm     ,Surface,NA,0,0,1,14.6135,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0320151209,Temporary,Anchialine,Central,HA_Kaloko_053H,Temp,°C,Surface,NA,0,0,1,19.3525,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0320151209,Temporary,Anchialine,Central,HA_Kaloko_053H,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0420151209,Temporary,Anchialine,Central,HA_Kaloko_012,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0420151209,Temporary,Anchialine,Central,HA_Kaloko_012,Chl,µg/l      ,Surface,NA,1,0,1,8.6842,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0420151209,Temporary,Anchialine,Central,HA_Kaloko_012,ODOConc,mg/l      ,Surface,NA,0,0,1,7.791,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0420151209,Temporary,Anchialine,Central,HA_Kaloko_012,ODOSat,%         ,Surface,NA,0,0,1,91.0947,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0420151209,Temporary,Anchialine,Central,HA_Kaloko_012,pH,None      ,Surface,NA,0,0,1,7.76,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0420151209,Temporary,Anchialine,Central,HA_Kaloko_012,Sal,ppth      ,Surface,NA,0,0,1,10.9,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0420151209,Temporary,Anchialine,Central,HA_Kaloko_012,SpCond,mS/cm     ,Surface,NA,0,0,1,18.3573,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0420151209,Temporary,Anchialine,Central,HA_Kaloko_012,Temp,°C,Surface,NA,0,0,1,19.8463,NA
+KAHO,12/9/2015,2015.875,2015,0.875,TKAHO0420151209,Temporary,Anchialine,Central,HA_Kaloko_012,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.2415,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,98.985,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,8.0155,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.997,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,23.1025,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.283,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,1,0,1,0.1,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,1.35,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.2438,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,95.1111,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.8916,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.4488,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,16.0905,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.6,NA
+KAHO,2/11/2016,2016.125,2016,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,1,0,1,0.1,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0120160211,Temporary,Anchialine,Central,HA_Kaloko_046,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0120160211,Temporary,Anchialine,Central,HA_Kaloko_046,Chl,µg/l      ,Surface,NA,0,0,1,0.4392,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0120160211,Temporary,Anchialine,Central,HA_Kaloko_046,ODOConc,mg/l      ,Surface,NA,0,0,1,7.1203,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0120160211,Temporary,Anchialine,Central,HA_Kaloko_046,ODOSat,%         ,Surface,NA,0,0,1,83.4178,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0120160211,Temporary,Anchialine,Central,HA_Kaloko_046,pH,None      ,Surface,NA,0,0,1,7.86,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0120160211,Temporary,Anchialine,Central,HA_Kaloko_046,Sal,ppth      ,Surface,NA,0,0,1,13.3064,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0120160211,Temporary,Anchialine,Central,HA_Kaloko_046,SpCond,mS/cm     ,Surface,NA,0,0,1,22.0428,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0120160211,Temporary,Anchialine,Central,HA_Kaloko_046,Temp,°C,Surface,NA,0,0,1,19.21,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0120160211,Temporary,Anchialine,Central,HA_Kaloko_046,Turbid+,FNU       ,Surface,NA,1,0,1,0.1,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0320160211,Temporary,Anchialine,Central,HA_Kaloko_061,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0320160211,Temporary,Anchialine,Central,HA_Kaloko_061,Chl,µg/l      ,Surface,NA,0,0,1,0.3222,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0320160211,Temporary,Anchialine,Central,HA_Kaloko_061,ODOConc,mg/l      ,Surface,NA,0,0,1,7.61,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0320160211,Temporary,Anchialine,Central,HA_Kaloko_061,ODOSat,%         ,Surface,NA,0,0,1,88.5666,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0320160211,Temporary,Anchialine,Central,HA_Kaloko_061,pH,None      ,Surface,NA,0,0,1,7.8788,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0320160211,Temporary,Anchialine,Central,HA_Kaloko_061,Sal,ppth      ,Surface,NA,0,0,1,11.1183,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0320160211,Temporary,Anchialine,Central,HA_Kaloko_061,SpCond,mS/cm     ,Surface,NA,0,0,1,18.6916,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0320160211,Temporary,Anchialine,Central,HA_Kaloko_061,Temp,°C,Surface,NA,0,0,1,19.5283,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0320160211,Temporary,Anchialine,Central,HA_Kaloko_061,Turbid+,FNU       ,Surface,NA,1,0,1,0.1,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0420160211,Temporary,Anchialine,Central,HA_Kaloko_055,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0420160211,Temporary,Anchialine,Central,HA_Kaloko_055,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0420160211,Temporary,Anchialine,Central,HA_Kaloko_055,ODOConc,mg/l      ,Surface,NA,0,0,1,7.7646,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0420160211,Temporary,Anchialine,Central,HA_Kaloko_055,ODOSat,%         ,Surface,NA,0,0,1,91.0615,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0420160211,Temporary,Anchialine,Central,HA_Kaloko_055,pH,None      ,Surface,NA,0,0,1,7.9415,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0420160211,Temporary,Anchialine,Central,HA_Kaloko_055,Sal,ppth      ,Surface,NA,0,0,1,12.5069,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0420160211,Temporary,Anchialine,Central,HA_Kaloko_055,SpCond,mS/cm     ,Surface,NA,0,0,1,20.8276,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0420160211,Temporary,Anchialine,Central,HA_Kaloko_055,Temp,°C,Surface,NA,0,0,1,19.5215,NA
+KAHO,2/11/2016,2016.125,2016,0.125,TKAHO0420160211,Temporary,Anchialine,Central,HA_Kaloko_055,Turbid+,FNU       ,Surface,NA,1,0,1,0.1,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.115,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,99.2,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.969,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.357,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.145,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,21.4295,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.449,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,98.2545,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.9559,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.6768,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.874,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,20.249,NA
+KAHO,4/21/2016,2016.375,2016,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/21/2016,2016.375,2016,0.375,TKAHO0420160421,Temporary,Anchialine,Central,HA_Honoko_020,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/21/2016,2016.375,2016,0.375,TKAHO0420160421,Temporary,Anchialine,Central,HA_Honoko_020,Chl,µg/l      ,Surface,NA,0,0,1,0.5333,NA
+KAHO,4/21/2016,2016.375,2016,0.375,TKAHO0420160421,Temporary,Anchialine,Central,HA_Honoko_020,ODOConc,mg/l      ,Surface,NA,0,0,1,7.9376,NA
+KAHO,4/21/2016,2016.375,2016,0.375,TKAHO0420160421,Temporary,Anchialine,Central,HA_Honoko_020,ODOSat,%         ,Surface,NA,0,0,1,92.838,NA
+KAHO,4/21/2016,2016.375,2016,0.375,TKAHO0420160421,Temporary,Anchialine,Central,HA_Honoko_020,pH,None      ,Surface,NA,0,0,1,7.8566,NA
+KAHO,4/21/2016,2016.375,2016,0.375,TKAHO0420160421,Temporary,Anchialine,Central,HA_Honoko_020,Sal,ppth      ,Surface,NA,0,0,1,10.6928,NA
+KAHO,4/21/2016,2016.375,2016,0.375,TKAHO0420160421,Temporary,Anchialine,Central,HA_Honoko_020,SpCond,mS/cm     ,Surface,NA,0,0,1,18.0342,NA
+KAHO,4/21/2016,2016.375,2016,0.375,TKAHO0420160421,Temporary,Anchialine,Central,HA_Honoko_020,Temp,°C,Surface,NA,0,0,1,19.9147,NA
+KAHO,4/21/2016,2016.375,2016,0.375,TKAHO0420160421,Temporary,Anchialine,Central,HA_Honoko_020,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.3333,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.7342,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,95.8047,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.878,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.6519,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.6014,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,22.0238,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.4052,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.2968,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,97.8578,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.8773,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.4615,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.54,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,21.0342,NA
+KAHO,9/16/2016,2016.625,2016,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0320160916,Temporary,Anchialine,Central,HA_Kaloko_012,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0320160916,Temporary,Anchialine,Central,HA_Kaloko_012,Chl,µg/l      ,Surface,NA,0,0,1,0.3095,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0320160916,Temporary,Anchialine,Central,HA_Kaloko_012,ODOConc,mg/l      ,Surface,NA,0,0,1,6.1233,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0320160916,Temporary,Anchialine,Central,HA_Kaloko_012,ODOSat,%         ,Surface,NA,0,0,1,73.8904,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0320160916,Temporary,Anchialine,Central,HA_Kaloko_012,pH,None      ,Surface,NA,0,0,1,7.7466,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0320160916,Temporary,Anchialine,Central,HA_Kaloko_012,Sal,ppth      ,Surface,NA,0,0,1,14.3333,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0320160916,Temporary,Anchialine,Central,HA_Kaloko_012,SpCond,mS/cm     ,Surface,NA,0,0,1,23.609,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0320160916,Temporary,Anchialine,Central,HA_Kaloko_012,Temp,°C,Surface,NA,0,0,1,20.4266,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0320160916,Temporary,Anchialine,Central,HA_Kaloko_012,Turbid+,FNU       ,Surface,NA,1,0,1,0.1,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0420160916,Temporary,Anchialine,Central,HA_Kaloko_057F,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0420160916,Temporary,Anchialine,Central,HA_Kaloko_057F,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0420160916,Temporary,Anchialine,Central,HA_Kaloko_057F,ODOConc,mg/l      ,Surface,NA,0,0,1,7.2838,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0420160916,Temporary,Anchialine,Central,HA_Kaloko_057F,ODOSat,%         ,Surface,NA,0,0,1,86.7047,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0420160916,Temporary,Anchialine,Central,HA_Kaloko_057F,pH,None      ,Surface,NA,0,0,1,7.7928,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0420160916,Temporary,Anchialine,Central,HA_Kaloko_057F,Sal,ppth      ,Surface,NA,0,0,1,12.5547,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0420160916,Temporary,Anchialine,Central,HA_Kaloko_057F,SpCond,mS/cm     ,Surface,NA,0,0,1,20.9071,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0420160916,Temporary,Anchialine,Central,HA_Kaloko_057F,Temp,°C,Surface,NA,0,0,1,20.2738,NA
+KAHO,9/16/2016,2016.625,2016,0.625,TKAHO0420160916,Temporary,Anchialine,Central,HA_Kaloko_057F,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,1,0,1,91.6,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.6894,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,91.4105,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,7.8884,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14.4142,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,23.7242,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,19.6163,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,1,0,1,132.4526,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.4405,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,97.1315,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.7163,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.0573,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,15.4726,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.5894,NA
+KAHO,12/13/2016,2016.875,2016,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0120161213,Temporary,Anchialine,Central,HA_Kaloko_046,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0120161213,Temporary,Anchialine,Central,HA_Kaloko_046,Chl,µg/l      ,Surface,NA,1,0,1,137.5523,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0120161213,Temporary,Anchialine,Central,HA_Kaloko_046,ODOConc,mg/l      ,Surface,NA,0,0,1,6.9919,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0120161213,Temporary,Anchialine,Central,HA_Kaloko_046,ODOSat,%         ,Surface,NA,0,0,1,82.1333,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0120161213,Temporary,Anchialine,Central,HA_Kaloko_046,pH,None      ,Surface,NA,0,0,1,7.6114,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0120161213,Temporary,Anchialine,Central,HA_Kaloko_046,Sal,ppth      ,Surface,NA,0,0,1,13.5238,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0120161213,Temporary,Anchialine,Central,HA_Kaloko_046,SpCond,mS/cm     ,Surface,NA,0,0,1,22.37,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0120161213,Temporary,Anchialine,Central,HA_Kaloko_046,Temp,°C,Surface,NA,0,0,1,19.2985,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0120161213,Temporary,Anchialine,Central,HA_Kaloko_046,Turbid+,FNU       ,Surface,NA,0,0,1,2.2285,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0320161213,Temporary,Anchialine,Central,HA_Kaloko_061,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0320161213,Temporary,Anchialine,Central,HA_Kaloko_061,Chl,µg/l      ,Surface,NA,1,0,1,134.2684,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0320161213,Temporary,Anchialine,Central,HA_Kaloko_061,ODOConc,mg/l      ,Surface,NA,0,0,1,7.3157,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0320161213,Temporary,Anchialine,Central,HA_Kaloko_061,ODOSat,%         ,Surface,NA,0,0,1,84.7,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0320161213,Temporary,Anchialine,Central,HA_Kaloko_061,pH,None      ,Surface,NA,0,0,1,7.7373,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0320161213,Temporary,Anchialine,Central,HA_Kaloko_061,Sal,ppth      ,Surface,NA,0,0,1,11.9573,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0320161213,Temporary,Anchialine,Central,HA_Kaloko_061,SpCond,mS/cm     ,Surface,NA,0,0,1,19.9836,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0320161213,Temporary,Anchialine,Central,HA_Kaloko_061,Temp,°C,Surface,NA,0,0,1,19.0168,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0320161213,Temporary,Anchialine,Central,HA_Kaloko_061,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0420161213,Temporary,Anchialine,Central,HA_Kaloko_032,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0420161213,Temporary,Anchialine,Central,HA_Kaloko_032,Chl,µg/l      ,Surface,NA,1,0,1,136.5421,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0420161213,Temporary,Anchialine,Central,HA_Kaloko_032,ODOConc,mg/l      ,Surface,NA,0,0,1,5.5163,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0420161213,Temporary,Anchialine,Central,HA_Kaloko_032,ODOSat,%         ,Surface,NA,0,0,1,65.3368,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0420161213,Temporary,Anchialine,Central,HA_Kaloko_032,pH,None      ,Surface,NA,0,0,1,7.0905,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0420161213,Temporary,Anchialine,Central,HA_Kaloko_032,Sal,ppth      ,Surface,NA,0,0,1,13.2189,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0420161213,Temporary,Anchialine,Central,HA_Kaloko_032,SpCond,mS/cm     ,Surface,NA,0,0,1,21.9157,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0420161213,Temporary,Anchialine,Central,HA_Kaloko_032,Temp,°C,Surface,NA,0,0,1,19.8163,NA
+KAHO,12/13/2016,2016.875,2016,0.875,TKAHO0420161213,Temporary,Anchialine,Central,HA_Kaloko_032,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/10/2017,2017.125,2017,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,2/10/2017,2017.125,2017,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/10/2017,2017.125,2017,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/10/2017,2017.125,2017,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.3168,NA
+KAHO,2/10/2017,2017.125,2017,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,95.9068,NA
+KAHO,2/10/2017,2017.125,2017,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,8.1527,NA
+KAHO,2/10/2017,2017.125,2017,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.1234,NA
+KAHO,2/10/2017,2017.125,2017,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,15.5769,NA
+KAHO,2/10/2017,2017.125,2017,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.6732,NA
+KAHO,2/10/2017,2017.125,2017,0.125,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0220170210,Temporary,Anchialine,Central,HA_Kaloko_012,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0220170210,Temporary,Anchialine,Central,HA_Kaloko_012,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0220170210,Temporary,Anchialine,Central,HA_Kaloko_012,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0220170210,Temporary,Anchialine,Central,HA_Kaloko_012,ODOConc,mg/l      ,Surface,NA,0,0,1,6.8132,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0220170210,Temporary,Anchialine,Central,HA_Kaloko_012,ODOSat,%         ,Surface,NA,0,0,1,81.9857,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0220170210,Temporary,Anchialine,Central,HA_Kaloko_012,pH,None      ,Surface,NA,0,0,1,8.0996,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0220170210,Temporary,Anchialine,Central,HA_Kaloko_012,Sal,ppth      ,Surface,NA,0,0,1,13.6425,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0220170210,Temporary,Anchialine,Central,HA_Kaloko_012,SpCond,mS/cm     ,Surface,NA,0,0,1,22.5691,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0220170210,Temporary,Anchialine,Central,HA_Kaloko_012,Temp,°C,Surface,NA,0,0,1,20.5016,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0220170210,Temporary,Anchialine,Central,HA_Kaloko_012,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0320170210,Temporary,Anchialine,Central,HA_Kaloko_053A,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0320170210,Temporary,Anchialine,Central,HA_Kaloko_053A,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0320170210,Temporary,Anchialine,Central,HA_Kaloko_053A,Chl,µg/l      ,Surface,NA,0,0,1,0.5336,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0320170210,Temporary,Anchialine,Central,HA_Kaloko_053A,ODOConc,mg/l      ,Surface,NA,0,0,1,8.8884,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0320170210,Temporary,Anchialine,Central,HA_Kaloko_053A,ODOSat,%         ,Surface,NA,0,0,1,107.268,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0320170210,Temporary,Anchialine,Central,HA_Kaloko_053A,pH,None      ,Surface,NA,0,0,1,7.2524,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0320170210,Temporary,Anchialine,Central,HA_Kaloko_053A,Sal,ppth      ,Surface,NA,0,0,1,12.1776,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0320170210,Temporary,Anchialine,Central,HA_Kaloko_053A,SpCond,mS/cm     ,Surface,NA,0,0,1,20.3376,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0320170210,Temporary,Anchialine,Central,HA_Kaloko_053A,Temp,°C,Surface,NA,0,0,1,21.2118,NA
+KAHO,2/10/2017,2017.125,2017,0.125,TKAHO0320170210,Temporary,Anchialine,Central,HA_Kaloko_053A,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/11/2017,2017.125,2017,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,2/11/2017,2017.125,2017,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/11/2017,2017.125,2017,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/11/2017,2017.125,2017,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,8.1608,NA
+KAHO,2/11/2017,2017.125,2017,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,98.5217,NA
+KAHO,2/11/2017,2017.125,2017,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,8.1934,NA
+KAHO,2/11/2017,2017.125,2017,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14.7069,NA
+KAHO,2/11/2017,2017.125,2017,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,24.1749,NA
+KAHO,2/11/2017,2017.125,2017,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.3366,NA
+KAHO,2/11/2017,2017.125,2017,0.125,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/11/2017,2017.125,2017,0.125,TKAHO0420170211,Temporary,Anchialine,Central,HA_Kaloko_058,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,2/11/2017,2017.125,2017,0.125,TKAHO0420170211,Temporary,Anchialine,Central,HA_Kaloko_058,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,2/11/2017,2017.125,2017,0.125,TKAHO0420170211,Temporary,Anchialine,Central,HA_Kaloko_058,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,2/11/2017,2017.125,2017,0.125,TKAHO0420170211,Temporary,Anchialine,Central,HA_Kaloko_058,ODOConc,mg/l      ,Surface,NA,0,0,1,7.5917,NA
+KAHO,2/11/2017,2017.125,2017,0.125,TKAHO0420170211,Temporary,Anchialine,Central,HA_Kaloko_058,ODOSat,%         ,Surface,NA,0,0,1,89.2478,NA
+KAHO,2/11/2017,2017.125,2017,0.125,TKAHO0420170211,Temporary,Anchialine,Central,HA_Kaloko_058,pH,None      ,Surface,NA,0,0,1,8.1,NA
+KAHO,2/11/2017,2017.125,2017,0.125,TKAHO0420170211,Temporary,Anchialine,Central,HA_Kaloko_058,Sal,ppth      ,Surface,NA,0,0,1,12.2778,NA
+KAHO,2/11/2017,2017.125,2017,0.125,TKAHO0420170211,Temporary,Anchialine,Central,HA_Kaloko_058,SpCond,mS/cm     ,Surface,NA,0,0,1,20.4792,NA
+KAHO,2/11/2017,2017.125,2017,0.125,TKAHO0420170211,Temporary,Anchialine,Central,HA_Kaloko_058,Temp,°C,Surface,NA,0,0,1,19.7043,NA
+KAHO,2/11/2017,2017.125,2017,0.125,TKAHO0420170211,Temporary,Anchialine,Central,HA_Kaloko_058,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.2526,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.8815,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,94.7473,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,8.081,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,13.8105,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,22.8215,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,20.4036,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.3,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.3488,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,96.2666,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,8.06,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.6355,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.8083,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.8216,NA
+KAHO,4/26/2017,2017.375,2017,0.375,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,4/26/2017,2017.375,2017,0.375,TKAHO0220170426,Temporary,Anchialine,Central,HA_Kaloko_053F,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,4/26/2017,2017.375,2017,0.375,TKAHO0220170426,Temporary,Anchialine,Central,HA_Kaloko_053F,Chl,µg/l      ,Surface,NA,0,0,1,0.2263,NA
+KAHO,4/26/2017,2017.375,2017,0.375,TKAHO0220170426,Temporary,Anchialine,Central,HA_Kaloko_053F,ODOConc,mg/l      ,Surface,NA,0,0,1,7.5684,NA
+KAHO,4/26/2017,2017.375,2017,0.375,TKAHO0220170426,Temporary,Anchialine,Central,HA_Kaloko_053F,ODOSat,%         ,Surface,NA,0,0,1,88.8421,NA
+KAHO,4/26/2017,2017.375,2017,0.375,TKAHO0220170426,Temporary,Anchialine,Central,HA_Kaloko_053F,pH,None      ,Surface,NA,0,0,1,7.9805,NA
+KAHO,4/26/2017,2017.375,2017,0.375,TKAHO0220170426,Temporary,Anchialine,Central,HA_Kaloko_053F,Sal,ppth      ,Surface,NA,0,0,1,12.1694,NA
+KAHO,4/26/2017,2017.375,2017,0.375,TKAHO0220170426,Temporary,Anchialine,Central,HA_Kaloko_053F,SpCond,mS/cm     ,Surface,NA,0,0,1,20.3115,NA
+KAHO,4/26/2017,2017.375,2017,0.375,TKAHO0220170426,Temporary,Anchialine,Central,HA_Kaloko_053F,Temp,°C,Surface,NA,0,0,1,19.6578,NA
+KAHO,4/26/2017,2017.375,2017,0.375,TKAHO0220170426,Temporary,Anchialine,Central,HA_Kaloko_053F,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.7752,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,97.3411,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,8.0205,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14.7617,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,24.283,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,22.2559,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.29,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,98.8111,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,7.9783,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,9.0683,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,15.5075,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,21.4073,NA
+KAHO,7/25/2017,2017.625,2017,0.625,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0220170725,Temporary,Anchialine,Central,HA_Kaloko_013,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0220170725,Temporary,Anchialine,Central,HA_Kaloko_013,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0220170725,Temporary,Anchialine,Central,HA_Kaloko_013,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0220170725,Temporary,Anchialine,Central,HA_Kaloko_013,ODOConc,mg/l      ,Surface,NA,0,0,1,7.9418,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0220170725,Temporary,Anchialine,Central,HA_Kaloko_013,ODOSat,%         ,Surface,NA,0,0,1,96.9181,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0220170725,Temporary,Anchialine,Central,HA_Kaloko_013,pH,None      ,Surface,NA,0,0,1,7.844,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0220170725,Temporary,Anchialine,Central,HA_Kaloko_013,Sal,ppth      ,Surface,NA,0,0,1,10.9395,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0220170725,Temporary,Anchialine,Central,HA_Kaloko_013,SpCond,mS/cm     ,Surface,NA,0,0,1,18.4426,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0220170725,Temporary,Anchialine,Central,HA_Kaloko_013,Temp,°C,Surface,NA,0,0,1,22.0737,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0220170725,Temporary,Anchialine,Central,HA_Kaloko_013,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0320170725,Temporary,Anchialine,Central,HA_Kaloko_007,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0320170725,Temporary,Anchialine,Central,HA_Kaloko_007,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0320170725,Temporary,Anchialine,Central,HA_Kaloko_007,Chl,µg/l      ,Surface,NA,0,0,1,0.4272,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0320170725,Temporary,Anchialine,Central,HA_Kaloko_007,ODOConc,mg/l      ,Surface,NA,0,0,1,8.4944,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0320170725,Temporary,Anchialine,Central,HA_Kaloko_007,ODOSat,%         ,Surface,NA,0,0,1,111.9055,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0320170725,Temporary,Anchialine,Central,HA_Kaloko_007,pH,None      ,Surface,NA,0,0,1,7.95,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0320170725,Temporary,Anchialine,Central,HA_Kaloko_007,Sal,ppth      ,Surface,NA,0,0,1,14.275,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0320170725,Temporary,Anchialine,Central,HA_Kaloko_007,SpCond,mS/cm     ,Surface,NA,0,0,1,23.6032,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0320170725,Temporary,Anchialine,Central,HA_Kaloko_007,Temp,°C,Surface,NA,0,0,1,25.2085,NA
+KAHO,7/25/2017,2017.625,2017,0.625,TKAHO0320170725,Temporary,Anchialine,Central,HA_Kaloko_007,Turbid+,FNU       ,Surface,NA,0,0,1,0.1383,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0120170726,Temporary,Anchialine,Central,HA_Kaloko_046,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0120170726,Temporary,Anchialine,Central,HA_Kaloko_046,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0120170726,Temporary,Anchialine,Central,HA_Kaloko_046,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0120170726,Temporary,Anchialine,Central,HA_Kaloko_046,ODOConc,mg/l      ,Surface,NA,0,0,1,6.7618,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0120170726,Temporary,Anchialine,Central,HA_Kaloko_046,ODOSat,%         ,Surface,NA,0,0,1,80.6409,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0120170726,Temporary,Anchialine,Central,HA_Kaloko_046,pH,None      ,Surface,NA,0,0,1,7.8086,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0120170726,Temporary,Anchialine,Central,HA_Kaloko_046,Sal,ppth      ,Surface,NA,0,0,1,13.4831,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0120170726,Temporary,Anchialine,Central,HA_Kaloko_046,SpCond,mS/cm     ,Surface,NA,0,0,1,22.3194,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0120170726,Temporary,Anchialine,Central,HA_Kaloko_046,Temp,°C,Surface,NA,0,0,1,20.093,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0120170726,Temporary,Anchialine,Central,HA_Kaloko_046,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0420170726,Temporary,Anchialine,Central,HA_Kaloko_053A,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0420170726,Temporary,Anchialine,Central,HA_Kaloko_053A,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0420170726,Temporary,Anchialine,Central,HA_Kaloko_053A,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0420170726,Temporary,Anchialine,Central,HA_Kaloko_053A,ODOConc,mg/l      ,Surface,NA,0,0,1,7.1836,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0420170726,Temporary,Anchialine,Central,HA_Kaloko_053A,ODOSat,%         ,Surface,NA,0,0,1,86.7863,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0420170726,Temporary,Anchialine,Central,HA_Kaloko_053A,pH,None      ,Surface,NA,0,0,1,7.9072,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0420170726,Temporary,Anchialine,Central,HA_Kaloko_053A,Sal,ppth      ,Surface,NA,0,0,1,13.6231,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0420170726,Temporary,Anchialine,Central,HA_Kaloko_053A,SpCond,mS/cm     ,Surface,NA,0,0,1,22.5411,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0420170726,Temporary,Anchialine,Central,HA_Kaloko_053A,Temp,°C,Surface,NA,0,0,1,20.7225,NA
+KAHO,7/26/2017,2017.625,2017,0.625,TKAHO0420170726,Temporary,Anchialine,Central,HA_Kaloko_053A,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOConc,mg/l      ,Surface,NA,0,0,1,7.9955,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,ODOSat,%         ,Surface,NA,0,0,1,94.4444,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,pH,None      ,Surface,NA,0,0,1,8.0355,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Sal,ppth      ,Surface,NA,0,0,1,14.0444,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,SpCond,mS/cm     ,Surface,NA,0,0,1,23.1648,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Temp,°C,Surface,NA,0,0,1,19.4,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO01_ap,Fixed,Anchialine,Central,HA_Kaloko_005,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Chl,µg/l      ,Surface,NA,0,0,1,0.16,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOConc,mg/l      ,Surface,NA,0,0,1,8.4366,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,ODOSat,%         ,Surface,NA,0,0,1,97.0777,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,pH,None      ,Surface,NA,0,0,1,8.04,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Sal,ppth      ,Surface,NA,0,0,1,8.44,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,SpCond,mS/cm     ,Surface,NA,0,0,1,14.4966,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Temp,°C,Surface,NA,0,0,1,19.7616,NA
+KAHO,12/14/2017,2017.875,2017,0.875,FKAHO02_ap,Fixed,Anchialine,Central,HA_Kaloko_016,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0120171214,Temporary,Anchialine,Central,HA_Kaloko_049,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0120171214,Temporary,Anchialine,Central,HA_Kaloko_049,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0120171214,Temporary,Anchialine,Central,HA_Kaloko_049,Chl,µg/l      ,Surface,NA,0,0,1,4.7392,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0120171214,Temporary,Anchialine,Central,HA_Kaloko_049,ODOConc,mg/l      ,Surface,NA,0,0,1,6.755,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0120171214,Temporary,Anchialine,Central,HA_Kaloko_049,ODOSat,%         ,Surface,NA,0,0,1,79.85,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0120171214,Temporary,Anchialine,Central,HA_Kaloko_049,pH,None      ,Surface,NA,0,0,1,7.9207,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0120171214,Temporary,Anchialine,Central,HA_Kaloko_049,Sal,ppth      ,Surface,NA,0,0,1,14.6807,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0120171214,Temporary,Anchialine,Central,HA_Kaloko_049,SpCond,mS/cm     ,Surface,NA,0,0,1,24.125,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0120171214,Temporary,Anchialine,Central,HA_Kaloko_049,Temp,°C,Surface,NA,0,0,1,19.236,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0120171214,Temporary,Anchialine,Central,HA_Kaloko_049,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0320171214,Temporary,Anchialine,Central,HA_Kaloko_011,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0320171214,Temporary,Anchialine,Central,HA_Kaloko_011,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0320171214,Temporary,Anchialine,Central,HA_Kaloko_011,Chl,µg/l      ,Surface,NA,0,0,1,0.1765,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0320171214,Temporary,Anchialine,Central,HA_Kaloko_011,ODOConc,mg/l      ,Surface,NA,0,0,1,8.456,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0320171214,Temporary,Anchialine,Central,HA_Kaloko_011,ODOSat,%         ,Surface,NA,0,0,1,97.3,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0320171214,Temporary,Anchialine,Central,HA_Kaloko_011,pH,None      ,Surface,NA,0,0,1,8.034,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0320171214,Temporary,Anchialine,Central,HA_Kaloko_011,Sal,ppth      ,Surface,NA,0,0,1,9.518,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0320171214,Temporary,Anchialine,Central,HA_Kaloko_011,SpCond,mS/cm     ,Surface,NA,0,0,1,16.1958,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0320171214,Temporary,Anchialine,Central,HA_Kaloko_011,Temp,°C,Surface,NA,0,0,1,19.4421,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0320171214,Temporary,Anchialine,Central,HA_Kaloko_011,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0420171214,Temporary,Anchialine,Central,HA_Kaloko_044,BGA,µg/l      ,Surface,NA,0,0,1,NA,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0420171214,Temporary,Anchialine,Central,HA_Kaloko_044,BP,psi       ,Surface,NA,0,0,1,NA,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0420171214,Temporary,Anchialine,Central,HA_Kaloko_044,Chl,µg/l      ,Surface,NA,0,0,1,0.1,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0420171214,Temporary,Anchialine,Central,HA_Kaloko_044,ODOConc,mg/l      ,Surface,NA,0,0,1,7.289,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0420171214,Temporary,Anchialine,Central,HA_Kaloko_044,ODOSat,%         ,Surface,NA,0,0,1,86.805,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0420171214,Temporary,Anchialine,Central,HA_Kaloko_044,pH,None      ,Surface,NA,0,0,1,7.944,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0420171214,Temporary,Anchialine,Central,HA_Kaloko_044,Sal,ppth      ,Surface,NA,0,0,1,12.984,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0420171214,Temporary,Anchialine,Central,HA_Kaloko_044,SpCond,mS/cm     ,Surface,NA,0,0,1,21.5613,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0420171214,Temporary,Anchialine,Central,HA_Kaloko_044,Temp,°C,Surface,NA,0,0,1,20.1582,NA
+KAHO,12/14/2017,2017.875,2017,0.875,TKAHO0420171214,Temporary,Anchialine,Central,HA_Kaloko_044,Turbid+,FNU       ,Surface,NA,0,0,1,0.1,NA

@@ -1,0 +1,19 @@
+Package: PACNAquaticWaterQuality
+Title: PACN Water Quality Graph Functions
+Version: 0.1.0
+Authors@R: 
+    person("Amanda", "McCutcheon", , "amanda_l_mccutcheon@nps.gov", role = c("aut", "cre"))
+Description: This package creates the water quality graphs used in data briefs and other publications by PACN.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.0
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Imports: 
+    dplyr,
+    ggplot2,
+    gridExtra
+Suggests: 
+    lubridate
