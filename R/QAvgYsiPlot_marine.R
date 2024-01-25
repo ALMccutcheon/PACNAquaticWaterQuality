@@ -25,8 +25,12 @@ function(x,param,main.title,y.label,axis.digits){
     dplyr::filter(parameter==param&depth=="Surface")%>%
     dplyr::select(year,quarter,year_quarter,corrected_mean)%>%
     dplyr::group_by(year_quarter)%>%
-    dplyr::summarize(year=mean(year),quarter=mean(quarter),average_value=mean(corrected_mean), SE=sd(corrected_mean)/sqrt(length(corrected_mean)))%>%
-    dplyr::mutate(errorup=average_value+SE,errordown=average_value-SE)
+    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(corrected_mean),
+                     SE=sd(corrected_mean)/sqrt(length(corrected_mean)),
+                     lower.ci = average_value - qt(1 - (0.05 / 2), N - 1) * SE,
+                     upper.ci = average_value + qt(1 - (0.05 / 2), N - 1) * SE,
+                     lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
+    dplyr::mutate(errorup=upper.ci,errordown=lower.ci)
 
   surysidata2 <- dplyr::left_join(alldates,surysidata,dplyr::join_by("year_quarter"))
 
@@ -34,8 +38,13 @@ function(x,param,main.title,y.label,axis.digits){
     dplyr::filter(parameter==param&depth=="Bottom")%>%
     dplyr::select(year,quarter,year_quarter,corrected_mean)%>%
     dplyr::group_by(year_quarter)%>%
-    dplyr::summarize(year=mean(year),quarter=mean(quarter),average_value=mean(corrected_mean), SE=sd(corrected_mean)/sqrt(length(corrected_mean)))%>%
-    dplyr::mutate(errorup=average_value+SE,errordown=average_value-SE)
+    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(corrected_mean),
+                     SE=sd(corrected_mean)/sqrt(length(corrected_mean)),
+                     lower.ci = average_value - qt(1 - (0.05 / 2), N - 1) * SE,
+                     upper.ci = average_value + qt(1 - (0.05 / 2), N - 1) * SE,
+                     lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
+    dplyr::mutate(errorup=upper.ci,errordown=lower.ci)
+
 
   botysidata2 <- dplyr::left_join(alldates,botysidata,dplyr::join_by("year_quarter"))
 

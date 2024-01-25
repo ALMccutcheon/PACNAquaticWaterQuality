@@ -24,8 +24,12 @@ QAvgNutPlot <- function(x,param,main.title,y.label,axis.digits=1){
     dplyr::filter(parameter==param)%>%
     dplyr::select(year,quarter,year_quarter,mean_value)%>%
     dplyr::group_by(year_quarter)%>%
-    dplyr::summarize(year=mean(year),quarter=mean(quarter),average_value=mean(mean_value), SE=sd(mean_value)/sqrt(length(mean_value)))%>%
-    dplyr::mutate(errorup=average_value+SE,errordown=average_value-SE)
+    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(mean_value),
+                     SE=sd(mean_value)/sqrt(length(mean_value)),
+                     lower.ci = average_value - qt(1 - (0.05 / 2), N - 1) * SE,
+                     upper.ci = average_value + qt(1 - (0.05 / 2), N - 1) * SE,
+                     lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
+    dplyr::mutate(errorup=upper.ci,errordown=lower.ci)
 
   nutdata3 <- dplyr::left_join(alldates,nutdata2,dplyr::join_by("year_quarter"))
 

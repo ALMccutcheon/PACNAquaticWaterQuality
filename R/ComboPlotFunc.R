@@ -58,6 +58,6 @@ function(data1,data2,type="Non-Marine",years=c(2009,2011,2013,2015,2017,2019,202
   # Plots for the nine main parameters on one page
   # Adjust the plot titles.
 
-  return(gridExtra::grid.arrange(TDNAvg,TDPAvg,NO3Avg,ChlAvg,pHAvg,SalAvg,TempAvg,TurbidAvg,ODOSatAvg,ncol=3,top=graphtitle))
+  return(ggpubr::annotate_figure(ggpubr::ggarrange(TDNAvg,TDPAvg,NO3Avg,ChlAvg,pHAvg,SalAvg,TempAvg,TurbidAvg,ODOSatAvg,nrow=3,ncol=3,common.legend=TRUE,legend="bottom"),top=graphtitle))
 
 }
