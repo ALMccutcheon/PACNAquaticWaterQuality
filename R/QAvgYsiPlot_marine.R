@@ -50,7 +50,7 @@ function(x,param,main.title,y.label,axis.digits){
 
   ysidata2 <- rbind(data.frame(surysidata2,"depth"=rep("Surface",nrow(surysidata2))),data.frame(botysidata2,"depth"=rep("Bottom",nrow(botysidata2))))
 
-  limits<- aes(ymin=ysidata2$errordown,ymax=ysidata2$errorup)
+  limits<- aes(ymin=errordown,ymax=errorup)
 
   avgplot <- ggplot2::qplot(year_quarter, average_value,
                    data=ysidata2,

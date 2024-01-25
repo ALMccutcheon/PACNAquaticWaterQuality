@@ -49,7 +49,7 @@ function(x,param,main.title,y.label,axis.digits){
 
   nutdata2 <- rbind(data.frame(surnutdata2,"depth"=rep("Surface",nrow(surnutdata2))),data.frame(botnutdata2,"depth"=rep("Bottom",nrow(botnutdata2))))
 
-  limits<- aes(ymin=nutdata2$errordown,ymax=nutdata2$errorup)
+  limits<- aes(ymin=errordown,ymax=errorup)
 
   avgplot <- ggplot2::qplot(year_quarter, average_value,
                    data=nutdata2,

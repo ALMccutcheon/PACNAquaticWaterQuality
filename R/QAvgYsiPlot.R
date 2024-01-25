@@ -35,7 +35,7 @@ function(x,param,main.title,y.label,axis.digits){
 
   ysidata3 <- dplyr::left_join(alldates,ysidata2,dplyr::join_by("year_quarter"))
 
-  limits<- aes(ymin=ysidata3$errordown,ymax=ysidata3$errorup)
+  limits<- aes(ymin=errordown,ymax=errorup)
 
   avgplot <- ggplot2::qplot(year_quarter, average_value,
                    data=ysidata3,
