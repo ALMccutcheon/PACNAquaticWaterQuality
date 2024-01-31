@@ -1,12 +1,44 @@
 ---
 title: "WQ Examples"
 author: "Amanda McCutcheon"
-date: "2024-01-23"
-output: output_format
+date: "2024-01-25"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(here)
+library(janitor)
+library(PACNAquaticWaterQuality)
+library(tidyverse)
+library(rstatix)
+
+# Change Resource Type and Years as Necessary
+Years <- c(2009,2011,2013,2015,2017,2019,2021)
+YearRange <- c(2008,2021)
+ResourceType <- "Marine"
+
+nutdata <- clean_names(read_csv("C:/Users/almccutcheon/Documents/PACNAquaticWaterQuality/data-raw/20240118_Results_Nutrients_AllCopies.csv",
+                    col_types=cols("Pool_Group" = col_character())))
+nutdata <- nutdata%>% filter(data_flag!="R",loc_type==ResourceType)
+
+ysidata <- clean_names(read_csv("C:/Users/almccutcheon/Documents/PACNAquaticWaterQuality/data-raw/20240118_Results_YSI_AllCopies.csv",
+                                col_types=cols("Pool_Group" = col_character())))
+ysidata <- ysidata%>% filter(data_flag!="R",loc_type==ResourceType)
+
+Park<- "KAHO"
+LocName <- c("Pacific Ocean")
+
+selectnutdata <- nutdata %>%
+  filter(unit_code==Park,loc_name%in%LocName)
+selectysidata <- ysidata %>%
+  filter(unit_code==Park,loc_name%in%LocName)
+
+PACNAquaticWaterQuality::ComboPlotFunc(selectnutdata,selectysidata,type=ResourceType,years=Years,yearrange=YearRange,graphtitle="Water Quality at KAHO")
+
 ```
 
 ## Adding an RMarkdown Template

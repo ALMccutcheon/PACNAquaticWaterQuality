@@ -19,21 +19,21 @@ function(x,param,main.title,y.label,axis.digits){
   yearquarterscomplete<-seq(minyearquarter,maxyearquarter,by=0.25)
   alldates<-data.frame(list(year_quarter=yearquarterscomplete))
 
-  y.limits<-c(min(x[x$parameter==param,]$corrected_mean),max(x[x$parameter==param,]$corrected_mean))
-
   ysidata2<- x %>%
     dplyr::filter(parameter==param)%>%
     dplyr::select(year,quarter,year_quarter,corrected_mean)%>%
     dplyr::group_by(year_quarter)%>%
-    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(corrected_mean),
-                     SE=sd(corrected_mean)/sqrt(length(corrected_mean)),
-                     lower.ci = average_value - qt(1 - (0.05 / 2), N - 1) * SE,
-                     upper.ci = average_value + qt(1 - (0.05 / 2), N - 1) * SE,
+    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(corrected_mean,na.rm=T),
+                     SE=sd(corrected_mean,na.rm=T)/sqrt(N),
+                     lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
+                     upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
     dplyr::mutate(errorup=upper.ci,errordown=lower.ci)
 
 
   ysidata3 <- dplyr::left_join(alldates,ysidata2,dplyr::join_by("year_quarter"))
+
+  y.limits <- c(min(ysidata2$lower.ci,na.rm=T),max(ysidata2$upper.ci,na.rm=T))
 
   limits<- aes(ymin=errordown,ymax=errorup)
 

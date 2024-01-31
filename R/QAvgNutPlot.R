@@ -18,20 +18,20 @@ QAvgNutPlot <- function(x,param,main.title,y.label,axis.digits=1){
   yearquarterscomplete<-seq(minyearquarter,maxyearquarter,by=0.25)
   alldates<-data.frame(list(year_quarter=yearquarterscomplete))
 
-  y.limits<-c(min(x[x$parameter==param,]$mean_value),max(x[x$parameter==param,]$mean_value))
-
   nutdata2<- x %>%
     dplyr::filter(parameter==param)%>%
     dplyr::select(year,quarter,year_quarter,mean_value)%>%
     dplyr::group_by(year_quarter)%>%
-    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(mean_value),
-                     SE=sd(mean_value)/sqrt(length(mean_value)),
-                     lower.ci = average_value - qt(1 - (0.05 / 2), N - 1) * SE,
-                     upper.ci = average_value + qt(1 - (0.05 / 2), N - 1) * SE,
+    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(mean_value,na.rm=T),
+                     SE=sd(mean_value,na.rm=T)/sqrt(N),
+                     lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
+                     upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
     dplyr::mutate(errorup=upper.ci,errordown=lower.ci)
 
   nutdata3 <- dplyr::left_join(alldates,nutdata2,dplyr::join_by("year_quarter"))
+
+  y.limits <- c(min(nutdata2$lower.ci,na.rm=T),max(nutdata2$upper.ci,na.rm=T))
 
   limits<- aes(ymin=errordown,ymax=errorup)
 

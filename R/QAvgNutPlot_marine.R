@@ -19,16 +19,14 @@ function(x,param,main.title,y.label,axis.digits){
   yearquarterscomplete<-seq(minyearquarter,maxyearquarter,by=0.25)
   alldates<-data.frame(list(year_quarter=yearquarterscomplete))
 
-  y.limits <- c(min(x[x$parameter==param,]$mean_value),max(x[x$parameter==param,]$mean_value))
-
   surnutdata<- x %>%
     dplyr::filter(parameter==param&depth=="Surface")%>%
     dplyr::select(year,quarter,year_quarter,mean_value)%>%
     dplyr::group_by(year_quarter)%>%
-    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(mean_value),
-                     SE=sd(mean_value)/sqrt(length(mean_value)),
-                     lower.ci = average_value - qt(1 - (0.05 / 2), N - 1) * SE,
-                     upper.ci = average_value + qt(1 - (0.05 / 2), N - 1) * SE,
+    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(mean_value,na.rm=T),
+                     SE=sd(mean_value,na.rm=T)/sqrt(N),
+                     lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
+                     upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
     dplyr::mutate(errorup=upper.ci,errordown=lower.ci)
 
@@ -38,16 +36,18 @@ function(x,param,main.title,y.label,axis.digits){
     dplyr::filter(parameter==param&depth=="Bottom")%>%
     dplyr::select(year,quarter,year_quarter,mean_value)%>%
     dplyr::group_by(year_quarter)%>%
-    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(mean_value),
-                     SE=sd(mean_value)/sqrt(length(mean_value)),
-                     lower.ci = average_value - qt(1 - (0.05 / 2), N - 1) * SE,
-                     upper.ci = average_value + qt(1 - (0.05 / 2), N - 1) * SE,
+    dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(mean_value,na.rm=T),
+                     SE=sd(mean_value,na.rm=T)/sqrt(N),
+                     lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
+                     upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
     dplyr::mutate(errorup=upper.ci,errordown=lower.ci)
 
   botnutdata2 <- dplyr::left_join(alldates,botnutdata,dplyr::join_by("year_quarter"))
 
   nutdata2 <- rbind(data.frame(surnutdata2,"depth"=rep("Surface",nrow(surnutdata2))),data.frame(botnutdata2,"depth"=rep("Bottom",nrow(botnutdata2))))
+
+  y.limits <- c(min(nutdata2$lower.ci,na.rm=T),max(nutdata2$upper.ci,na.rm=T))
 
   limits<- aes(ymin=errordown,ymax=errorup)
 
