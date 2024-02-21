@@ -7,11 +7,12 @@
 #' @param main.title The desired graph title.
 #' @param y.label The desired y axis label
 #' @param axis.digits The number of digits desired for the y axis.
+#' @param errorbartype The type of error bar desired. Default is "CI" for 95% confidence interval. Otherwise it will do standard error.
 #' @returns A plot of mean values over time in the PACN desired format.
 #' @export
 
 QAvgYsiPlot_marine <-
-function(x,param,main.title,y.label,axis.digits){
+function(x,param,main.title,y.label,axis.digits,errorbartype="CI"){
 
   yearquarters<-unique(x$year_quarter)
   minyearquarter<-min(yearquarters)
@@ -28,7 +29,7 @@ function(x,param,main.title,y.label,axis.digits){
                      lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
-    dplyr::mutate(errorup=upper.ci,errordown=lower.ci)
+    dplyr::mutate(errorup=ifelse(errorbartype=="CI",upper.ci,average_value+SE),errordown=ifelse(errorbartype=="CI",lower.ci,average_value+SE))
 
   surysidata2 <- dplyr::left_join(alldates,surysidata,dplyr::join_by("year_quarter"))
 
@@ -41,7 +42,7 @@ function(x,param,main.title,y.label,axis.digits){
                      lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
-    dplyr::mutate(errorup=upper.ci,errordown=lower.ci)
+    dplyr::mutate(errorup=ifelse(errorbartype=="CI",upper.ci,average_value+SE),errordown=ifelse(errorbartype=="CI",lower.ci,average_value+SE))
 
 
   botysidata2 <- dplyr::left_join(alldates,botysidata,dplyr::join_by("year_quarter"))

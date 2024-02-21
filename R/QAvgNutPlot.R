@@ -1,16 +1,17 @@
 #' Graph PACN nutrient data for non-marine resources
 #'
-#' Nutrient data are graphs for nutrient parameters
+#' Nutrient data are graphed for nutrient parameters
 #'
 #' @param x A dataset in the format of nutdata. Must include the fields parameter, year, quarter, year_quarter,mean_value.
 #' @param param A parameter name. Typically TDN, TDP, NO3.
 #' @param main.title The desired graph title.
 #' @param y.label The desired y axis label
 #' @param axis.digits The number of digits desired for the y axis.
+#' @param errorbartype The type of error bar desired. Default is "CI" for 95% confidence interval. Otherwise it will do standard error.
 #' @returns A plot of mean values over time in the PACN desired format.
 #' @export
 
-QAvgNutPlot <- function(x,param,main.title,y.label,axis.digits=1){
+QAvgNutPlot <- function(x,param,main.title,y.label,axis.digits=1,errorbartype="CI"){
 
   yearquarters<-unique(x$year_quarter)
   minyearquarter<-min(yearquarters)
@@ -27,7 +28,7 @@ QAvgNutPlot <- function(x,param,main.title,y.label,axis.digits=1){
                      lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
-    dplyr::mutate(errorup=upper.ci,errordown=lower.ci)
+    dplyr::mutate(errorup=ifelse(errorbartype=="CI",upper.ci,average_value+SE),errordown=ifelse(errorbartype=="CI",lower.ci,average_value+SE))
 
   nutdata3 <- dplyr::left_join(alldates,nutdata2,dplyr::join_by("year_quarter"))
 
