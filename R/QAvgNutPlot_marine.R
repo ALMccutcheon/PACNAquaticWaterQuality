@@ -29,7 +29,7 @@ function(x,param,main.title,y.label,axis.digits,errorbartype="CI"){
                      lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
-    dplyr::mutate(errorup=ifelse(errorbartype=="CI",upper.ci,average_value+SE),errordown=ifelse(errorbartype=="CI",lower.ci,average_value+SE))
+    dplyr::mutate(errorup=upper.ci,errordown=lower.ci,errorupse=average_value+SE,errordownse=average_value-SE)
 
   surnutdata2 <- dplyr::left_join(alldates,surnutdata,dplyr::join_by("year_quarter"))
 
@@ -42,15 +42,18 @@ function(x,param,main.title,y.label,axis.digits,errorbartype="CI"){
                      lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
-    dplyr::mutate(errorup=ifelse(errorbartype=="CI",upper.ci,average_value+SE),errordown=ifelse(errorbartype=="CI",lower.ci,average_value+SE))
+    dplyr::mutate(errorup=upper.ci,errordown=lower.ci,errorupse=average_value+SE,errordownse=average_value-SE)
 
   botnutdata2 <- dplyr::left_join(alldates,botnutdata,dplyr::join_by("year_quarter"))
 
   nutdata2 <- rbind(data.frame(surnutdata2,"depth"=rep("Surface",nrow(surnutdata2))),data.frame(botnutdata2,"depth"=rep("Bottom",nrow(botnutdata2))))
 
-  y.limits <- c(min(nutdata2$lower.ci,na.rm=T),max(nutdata2$upper.ci,na.rm=T))
-
-  limits<- aes(ymin=errordown,ymax=errorup)
+  if(errorbartype=="CI"){
+    limits<- aes(ymin=errordown,ymax=errorup)
+    y.limits <- c(min(nutdata2$lower.ci,na.rm=T),max(nutdata2$upper.ci,na.rm=T))
+  }else{
+    limits<- aes(ymin=errordownse,ymax=errorupse)
+    y.limits <- c(min(nutdata2$errordownse,na.rm=T),max(nutdata2$errorupse,na.rm=T))}
 
   avgplot <- ggplot2::qplot(year_quarter, average_value,
                    data=nutdata2,

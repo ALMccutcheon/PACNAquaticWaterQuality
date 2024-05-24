@@ -33,11 +33,37 @@ Park<- "KAHO"
 LocName <- c("Pacific Ocean")
 
 selectnutdata <- nutdata %>%
-  filter(unit_code==Park,loc_name%in%LocName)
+  filter(unit_code==Park,loc_name%in%LocName,station_type=="Fixed")
 selectysidata <- ysidata %>%
-  filter(unit_code==Park,loc_name%in%LocName)
+  filter(unit_code==Park,loc_name%in%LocName,station_type=="Fixed")
 
 PACNAquaticWaterQuality::ComboPlotFunc(selectnutdata,selectysidata,type=ResourceType,years=Years,yearrange=YearRange,graphtitle="Water Quality at KAHO")
+
+Years <- c(2009,2011,2013,2015,2017,2019,2021)
+YearRange <- c(2008,2021)
+ResourceType <- "Groundwater"
+
+nutdata <- clean_names(read_csv("C:/Users/almccutcheon/Documents/PACNAquaticWaterQuality/data-raw/20240118_Results_Nutrients_AllCopies.csv",
+                    col_types=cols("Pool_Group" = col_character())))
+nutdata <- nutdata%>% filter(data_flag!="R",loc_type==ResourceType)
+
+ysidata <- clean_names(read_csv("C:/Users/almccutcheon/Documents/PACNAquaticWaterQuality/data-raw/20240118_Results_YSI_AllCopies.csv",
+                                col_types=cols("Pool_Group" = col_character())))
+ysidata <- ysidata%>% filter(data_flag!="R",loc_type==ResourceType)
+
+Park<- "KAHO"
+LocType <- c("Groundwater")
+
+selectnutdata <- nutdata %>%
+  filter(unit_code==Park,loc_type%in%LocType,station_type=="Fixed")
+selectysidata <- ysidata %>%
+  filter(unit_code==Park,loc_type%in%LocType,station_type=="Fixed")
+
+#QAvgNutPlotColorBy(selectnutdata,"TDN","TDN","TDN",axis.digits=1,colorby="station_id")
+
+#QAvgYsiPlotColorBy(selectysidata,"Sal","Salinity","Salinity",axis.digits=1,colorby="station_id")
+
+ComboPlotFuncColorBy(selectnutdata,selectysidata,type=ResourceType,years=Years,yearrange=YearRange,graphtitle="Water Quality at KAHO",colorby="station_id")
 
 ```
 

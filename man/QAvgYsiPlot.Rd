@@ -2,9 +2,9 @@
 % Please edit documentation in R/QAvgYsiPlot.R
 \name{QAvgYsiPlot}
 \alias{QAvgYsiPlot}
-\title{Graph PACN ysi data for non-marine resources}
+\title{Graph PACN YSI data for non-marine resources}
 \usage{
-QAvgYsiPlot(x, param, main.title, y.label, axis.digits)
+QAvgYsiPlot(x, param, main.title, y.label, axis.digits, errorbartype = "CI")
 }
 \arguments{
 \item{x}{A dataset in the format of ysidata. Must include the fields parameter, year, quarter, year_quarter, depth, corrected_mean.}
@@ -16,10 +16,12 @@ QAvgYsiPlot(x, param, main.title, y.label, axis.digits)
 \item{y.label}{The desired y axis label}
 
 \item{axis.digits}{The number of digits desired for the y axis.}
+
+\item{errorbartype}{The type of error bar desired. Default is "CI" for 95\% confidence interval. Otherwise it will do standard error.}
 }
 \value{
 A plot of mean values over time in the PACN desired format.
 }
 \description{
-YSI data are graphs for YSI parameters
+YSI data are graphed for YSI parameters
 }

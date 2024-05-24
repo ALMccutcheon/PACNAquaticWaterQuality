@@ -35,13 +35,16 @@ function(x,param,main.title,y.label,axis.digits=1,colorby="loc_name",errorbartyp
                      lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
-    dplyr::mutate(errorup=ifelse(errorbartype=="CI",upper.ci,average_value+SE),errordown=ifelse(errorbartype=="CI",lower.ci,average_value+SE))
+    dplyr::mutate(errorup=upper.ci,errordown=lower.ci,errorupse=average_value+SE,errordownse=average_value-SE)
 
   nutdata3 <- dplyr::left_join(alldates_locations,nutdata2,dplyr::join_by("year_quarter","loc_name"))
 
-  y.limits <- c(min(nutdata2$lower.ci,na.rm=T),max(nutdata2$upper.ci,na.rm=T))
-
-  limits<- aes(ymin=errordown,ymax=errorup)
+  if(errorbartype=="CI"){
+    limits<- aes(ymin=errordown,ymax=errorup)
+    y.limits <- c(min(nutdata2$lower.ci,na.rm=T),max(nutdata2$upper.ci,na.rm=T))
+  }else{
+    limits<- aes(ymin=errordownse,ymax=errorupse)
+    y.limits <- c(min(nutdata2$errordownse,na.rm=T),max(nutdata2$errorupse,na.rm=T))}
 
   avgplot <- ggplot2::qplot(year_quarter, average_value,
                             data=nutdata3,
@@ -64,13 +67,16 @@ function(x,param,main.title,y.label,axis.digits=1,colorby="loc_name",errorbartyp
                      lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
-    dplyr::mutate(errorup=ifelse(errorbartype=="CI",upper.ci,average_value+SE),errordown=ifelse(errorbartype=="CI",lower.ci,average_value+SE))
+    dplyr::mutate(errorup=upper.ci,errordown=lower.ci,errorupse=average_value+SE,errordownse=average_value-SE)
 
   nutdata3 <- dplyr::left_join(alldates_sites,nutdata2,dplyr::join_by("year_quarter","station_id"))
 
-  y.limits <- c(min(nutdata2$lower.ci,na.rm=T),max(nutdata2$upper.ci,na.rm=T))
-
-  limits<- aes(ymin=errordown,ymax=errorup)
+  if(errorbartype=="CI"){
+    limits<- aes(ymin=errordown,ymax=errorup)
+    y.limits <- c(min(nutdata2$lower.ci,na.rm=T),max(nutdata2$upper.ci,na.rm=T))
+  }else{
+    limits<- aes(ymin=errordownse,ymax=errorupse)
+    y.limits <- c(min(nutdata2$errordownse,na.rm=T),max(nutdata2$errorupse,na.rm=T))}
 
   avgplot <- ggplot2::qplot(year_quarter, average_value,
                             data=nutdata3,

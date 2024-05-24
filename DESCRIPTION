@@ -7,7 +7,7 @@ Description: This package creates the water quality graphs used in data briefs a
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.0
+RoxygenNote: 7.3.1
 Depends: 
     R (>= 2.10)
 LazyData: true
@@ -15,6 +15,12 @@ Imports:
     dplyr,
     ggplot2,
     ggpubr,
-    stats
+    stats,
+    magick,
+    purrr,
+    sf,
+    tibble,
+    stringr,
+    lubridate,
+    here
 Suggests: 
-    lubridate

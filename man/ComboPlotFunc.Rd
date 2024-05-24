@@ -10,7 +10,8 @@ ComboPlotFunc(
   type = "Non-Marine",
   years = c(2009, 2011, 2013, 2015, 2017, 2019, 2021),
   yearrange = c(2008, 2022),
-  graphtitle = "Water Quality at Selected Park and Resource"
+  graphtitle = "Water Quality at Selected Park and Resource",
+  errorbartype = "CI"
 )
 }
 \arguments{
@@ -25,6 +26,8 @@ ComboPlotFunc(
 \item{yearrange}{A list of length two indicating the min and max years displayed on the graph axes. Defaults is set to c(2008,2022).}
 
 \item{graphtitle}{The desired graph title. Default is set to "Water Quality at Selected Park and Resource".}
+
+\item{errorbartype}{The error bar type desired. Default is "CI" for 95\% confidence internval. Otherwise it will do Standard Error.}
 }
 \value{
 A multi-plot of mean values for 9 parameters over time in the PACN desired format.

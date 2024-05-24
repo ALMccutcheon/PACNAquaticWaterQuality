@@ -4,7 +4,14 @@
 \alias{QAvgNutPlot}
 \title{Graph PACN nutrient data for non-marine resources}
 \usage{
-QAvgNutPlot(x, param, main.title, y.label, axis.digits = 1)
+QAvgNutPlot(
+  x,
+  param,
+  main.title,
+  y.label,
+  axis.digits = 1,
+  errorbartype = "CI"
+)
 }
 \arguments{
 \item{x}{A dataset in the format of nutdata. Must include the fields parameter, year, quarter, year_quarter,mean_value.}
@@ -16,10 +23,12 @@ QAvgNutPlot(x, param, main.title, y.label, axis.digits = 1)
 \item{y.label}{The desired y axis label}
 
 \item{axis.digits}{The number of digits desired for the y axis.}
+
+\item{errorbartype}{The type of error bar desired. Default is "CI" for 95\% confidence interval. Otherwise it will do standard error.}
 }
 \value{
 A plot of mean values over time in the PACN desired format.
 }
 \description{
-Nutrient data are graphs for nutrient parameters
+Nutrient data are graphed for nutrient parameters
 }
