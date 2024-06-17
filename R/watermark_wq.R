@@ -51,6 +51,7 @@ function(x, new_folder) {
                   p.type=="MR" ~ paste(p.title,p.locname,sep="\n"),
                   p.type=="AP" ~ paste(p.title),
                   p.type=="BB" ~ paste(p.title,p.locname,sep="\n"),
+                  p.type=="GW" ~ paste(p.title),
                   TRUE ~ NA)
   img.x2 <- magick::image_annotate(img.x2, nw,
                           size = 25,
@@ -74,6 +75,7 @@ function(x, new_folder) {
                   p.type=="MR" ~ paste(p.site),
                   p.type=="AP" ~ paste(p.site,p.locname,sep="\n"),
                   p.type=="BB" ~ paste(p.site),
+                  p.type=="GW" ~ paste(p.site,p.locname,sep="\n"),
                   TRUE ~ NA)
   img.x2 <- magick::image_annotate(img.x2, ne,
                           size = 25,
