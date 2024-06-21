@@ -30,8 +30,14 @@ joined_table <- attachments %>%
 df <- joined_table$SHAPE
 coords<- sf::st_coordinates(df)
 
+# make the time zone for CreationDate HST
+lubridate::tz(joined_table$CreationDate)<-"Pacific/Honolulu"
+
 # Make a date_time column appropriate for file names
 joined_table <- joined_table %>%
+  dplyr::mutate(CreationDate=case_when(unit_code%in%c("AMME","WAPA") ~ lubridate::with_tz(CreationDate,tzone="Pacific/Guam"),
+                                       unit_code%in%c("ALKA","KAHO","KALA","HALE","PUHE","PUHO","HAVO") ~ lubridate::with_tz(CreationDate,tzone="Pacific/Honolulu"),
+                                       unit_code%in%c("NPSA") ~ lubridate::with_tz(CreationDate,tzone="Pacific/Samoa")))%>%
   dplyr::mutate(date_time_photo = as.character(CreationDate)) %>%
   dplyr::mutate(date_time_file = lubridate::date(CreationDate))%>%
   dplyr::mutate(date_time_file = stringr::str_replace_all(date_time_file,"-",""))%>%
