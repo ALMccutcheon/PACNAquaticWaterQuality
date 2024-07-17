@@ -33,7 +33,6 @@ coords<- sf::st_coordinates(df)
 # make the time zone for CreationDate HST
 lubridate::tz(joined_table$CreationDate)<-"Pacific/Honolulu"
 
-<<<<<<< HEAD
 # Update CreationDate to correct time zone
 date_table <- joined_table %>%
   dplyr::mutate(Time_Zone = case_when(unit_code%in%c("AMME","WAPA") ~ "Pacific/Guam",
@@ -46,13 +45,8 @@ date_table <- joined_table %>%
 
 joined_table$CreationDate <-as.POSIXct(unlist(date_table$CreationDate))
 
-=======
->>>>>>> 1412a28f240f3f17a2d55dde5151f643af96ddf3
 # Make a date_time column appropriate for file names
 joined_table <- joined_table %>%
-  dplyr::mutate(CreationDate=case_when(unit_code%in%c("AMME","WAPA") ~ lubridate::with_tz(CreationDate,tzone="Pacific/Guam"),
-                                       unit_code%in%c("ALKA","KAHO","KALA","HALE","PUHE","PUHO","HAVO") ~ lubridate::with_tz(CreationDate,tzone="Pacific/Honolulu"),
-                                       unit_code%in%c("NPSA") ~ lubridate::with_tz(CreationDate,tzone="Pacific/Samoa")))%>%
   dplyr::mutate(date_time_photo = as.character(CreationDate)) %>%
   dplyr::mutate(date_time_file = lubridate::date(CreationDate))%>%
   dplyr::mutate(date_time_file = stringr::str_replace_all(date_time_file,"-",""))%>%
