@@ -1,6 +1,6 @@
 Package: PACNAquaticWaterQuality
 Title: PACN Water Quality Graph Functions
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: 
     person("Amanda", "McCutcheon", , "amanda_l_mccutcheon@nps.gov", role = c("aut", "cre"))
 Description: This package creates the water quality graphs used in data briefs and other publications by PACN.
