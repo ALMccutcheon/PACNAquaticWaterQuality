@@ -30,25 +30,25 @@ joined_table <- attachments %>%
 df <- joined_table$SHAPE
 coords<- sf::st_coordinates(df)
 
-# make the time zone for CreationDate HST
-lubridate::tz(joined_table$CreationDate)<-"Pacific/Honolulu"
+# make the time zone for created_date HST
+lubridate::tz(joined_table$created_date)<-"Pacific/Honolulu"
 
-# Update CreationDate to correct time zone
+# Update created_date to correct time zone
 date_table <- joined_table %>%
   dplyr::mutate(Time_Zone = case_when(unit_code%in%c("AMME","WAPA") ~ "Pacific/Guam",
                                       unit_code%in%c("KAHO","ALKA","PUHO","PUHE","HALE","KALA","HAVO") ~ "Pacific/Honolulu",
                                       unit_code%in%c("NPSA") ~ "Pacific/Samoa",
                                       TRUE ~ NA))%>%
   dplyr::rowwise()%>%
-  dplyr::do(CreationDate = lubridate::force_tz(lubridate::with_tz(.$CreationDate,tzone=.$Time_Zone)),tzone="UTC")%>%
+  dplyr::do(created_date = lubridate::force_tz(lubridate::with_tz(.$created_date,tzone=.$Time_Zone)),tzone="UTC")%>%
   dplyr::ungroup()
 
-joined_table$CreationDate <-as.POSIXct(unlist(date_table$CreationDate))
+joined_table$created_date <-as.POSIXct(unlist(date_table$created_date))
 
 # Make a date_time column appropriate for file names
 joined_table <- joined_table %>%
-  dplyr::mutate(date_time_photo = as.character(CreationDate)) %>%
-  dplyr::mutate(date_time_file = lubridate::date(CreationDate))%>%
+  dplyr::mutate(date_time_photo = as.character(created_date)) %>%
+  dplyr::mutate(date_time_file = lubridate::date(created_date))%>%
   dplyr::mutate(date_time_file = stringr::str_replace_all(date_time_file,"-",""))%>%
   cbind(coords)%>% #add the x,y,z coordinates
   dplyr::mutate(hash = stringr::str_c(date_time_file,station_id,photo_subject)) %>% #creates a field called hash which has the fields that will be in filename
