@@ -12,15 +12,15 @@ watermark_streams <-
 function(x, new_folder) {
   # Get watermarking info from the table (x)
   p.dt_photo <- x["date_time_photo"]
-  p.title<-paste(x["unit_code"],"Water Quality Monitoring",sep=" ")
+  p.title<-paste(x["unit_code"],"Stream Monitoring",sep=" ")
   p.direction<- x["photo_subject"]
   p.locname<-x["Location_Name"]
-  p.transect<-x["Transect"] # Transect is not included in watermark_wq
+  p.transect<-x["transect"] # Transect is not included in watermark_wq
   p.type<-x["Location_Type"]
   p.site <- x["station_id"]
   p.user <- x["Editor"]
   p.tag <- x["tag"]
-  p.filename<-paste(x["date_time_file"],p.site,"WQ",p.type,p.direction,sep="_")
+  p.filename<-paste(x["date_time_file"],p.site,p.transect,p.direction,sep="_")
   p.filename.tag<-paste0(p.filename,p.tag) #added tag separately because it already includes the "_"
   p.lat <- x$Y
   p.lat <- round(p.lat,6)
