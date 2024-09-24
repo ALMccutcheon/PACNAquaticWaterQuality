@@ -60,10 +60,10 @@ function(x,param,main.title,y.label,axis.digits=1,colorby="loc_name",errorbartyp
   } else { if(colorby=="station_id"){
   nutdata2<- x %>%
     dplyr::filter(parameter==param)%>%
-    dplyr::select(year,quarter,year_quarter,mean_value,station_id)%>%
+    dplyr::select(year,quarter,year_quarter,mean_value,station_id,sd)%>%
     dplyr::group_by(year_quarter,station_id)%>%
     dplyr::summarize(N=n(),year=mean(year),quarter=mean(quarter),average_value=mean(mean_value,na.rm=T),
-                     SE=sd(mean_value,na.rm=T)/sqrt(N),
+                     SE=sd/sqrt(N),
                      lower.ci = ifelse(N==1,NA,average_value-stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      upper.ci = ifelse(N==1,NA,average_value+stats::qt(1 - (0.05 / 2), N - 1) * SE),
                      lower.ci = ifelse(lower.ci<0,0,lower.ci))%>%
