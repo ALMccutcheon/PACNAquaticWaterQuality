@@ -49,15 +49,15 @@ joined_table$created_date <-as.POSIXct(unlist(date_table$created_date))
 joined_table <- joined_table %>%
   dplyr::mutate(date_time_photo = as.character(created_date)) %>%
   dplyr::mutate(date_time_file = lubridate::date(created_date))%>%
-  dplyr::mutate(date_time_file = stringr::str_replace_all(date_time_file,"-",""))%>%
+  dplyr::mutate(date_time_file = stringr::str_replace_all(date_time_file,"-",""),
+                transect = ifelse(is.na(transect),"WQ",transect))%>% #replace NA in Location_Name with a space
   cbind(coords)%>% #add the x,y,z coordinates
-  dplyr::mutate(hash = stringr::str_c(date_time_file,station_id,transect,photo_subject)) %>% #creates a field called hash which has the fields that will be in filename
+  dplyr::mutate(hash = stringr::str_c(date_time_file,station_id,photo_subject,transect)) %>% #creates a field called hash which has the fields that will be in filename
   dplyr::group_by(hash) %>%
   dplyr::mutate(duplication_id = seq(n())-1) %>% #checks for duplication of the filename hash field and add a sequence number for duplicates
   dplyr::ungroup ()%>%
   dplyr::mutate(tag = ifelse(duplication_id==0,"",paste0("_",duplication_id)), #replaces duplication id of zero with nothing
-         Location_Name = ifelse(is.na(Location_Name)," ",Location_Name),
-         transect = ifelse(is.na(transect),"WQ",transect)) #replace NA in Location_Name with a space
+         Location_Name = ifelse(is.na(Location_Name)," ",Location_Name))
 
 return(joined_table)
 }

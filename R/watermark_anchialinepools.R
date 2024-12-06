@@ -20,7 +20,7 @@ function(x, new_folder) {
   p.site <- x["station_id"]
   p.user <- x["Editor"]
   p.tag <- x["tag"]
-  p.filename<-paste(x["date_time_file"],p.site,p.direction,sep="_")
+  p.filename<-paste(x["date_time_file"],p.locname,p.direction,sep="_")
   p.filename.tag<-paste0(p.filename,p.tag) #added tag separately because it already includes the "_"
   p.lat <- x$Y
   p.lat <- round(p.lat,6)
@@ -48,7 +48,7 @@ function(x, new_folder) {
   # ---- Watermark photo -----
 
   # northwest corner
-  nw <- dplyr::case_when(p.type=="AP" ~ paste(p.title,p.locname,sep="\n"),
+  nw <- dplyr::case_when(p.type=="AP" ~ paste(p.title),
                   TRUE ~ NA)
   img.x2 <- magick::image_annotate(img.x2, nw,
                           size = 25,
@@ -68,7 +68,7 @@ function(x, new_folder) {
                            weight = 900)
 
   # northeast corner
-  ne <- dplyr::case_when(p.type=="AP" ~ paste(p.site),
+  ne <- dplyr::case_when(p.type=="AP" ~ paste(p.locname),
                   TRUE ~ NA)
   img.x2 <- magick::image_annotate(img.x2, ne,
                           size = 25,
