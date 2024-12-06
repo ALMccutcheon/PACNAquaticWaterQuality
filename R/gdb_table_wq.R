@@ -51,7 +51,7 @@ joined_table <- joined_table %>%
   dplyr::mutate(date_time_file = lubridate::date(created_date))%>%
   dplyr::mutate(date_time_file = stringr::str_replace_all(date_time_file,"-",""))%>%
   cbind(coords)%>% #add the x,y,z coordinates
-  dplyr::mutate(hash = stringr::str_c(date_time_file,station_id,photo_subject)) %>% #creates a field called hash which has the fields that will be in filename
+  dplyr::mutate(hash = stringr::str_c(date_time_file,station_id,transect,photo_subject)) %>% #creates a field called hash which has the fields that will be in filename
   dplyr::group_by(hash) %>%
   dplyr::mutate(duplication_id = seq(n())-1) %>% #checks for duplication of the filename hash field and add a sequence number for duplicates
   dplyr::ungroup ()%>%
