@@ -57,8 +57,8 @@ joined_table <- joined_table %>%
   dplyr::mutate(duplication_id = seq(n())-1) %>% #checks for duplication of the filename hash field and add a sequence number for duplicates
   dplyr::ungroup ()%>%
   dplyr::mutate(tag = ifelse(duplication_id==0,"",paste0("_",duplication_id)), #replaces duplication id of zero with nothing
-         Location_Name = ifelse(is.na(Location_Name)," ",Location_Name),
-         Location_Type = ifelse(is.na(Location_Type)," ",Location_Type))
+         Location_Name = ifelse(is.na(location_name)," ",location_name),
+         Location_Type = ifelse(is.na(location_type)," ",location_type))
 
 return(joined_table)
 }
