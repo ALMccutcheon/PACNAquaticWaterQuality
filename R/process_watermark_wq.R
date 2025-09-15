@@ -19,9 +19,12 @@ function(gdb_name, gdb_location, gdb_layer,park,loctype,
   t <-gdb_table_wq(gdb_name, gdb_location, gdb_layer)
 
   t_select <- t%>%
-    dplyr::filter(unit_code==park,Location_Type==loctype)%>%
+    dplyr::filter(unit_code==park,Location_Type==loctype,transect=="WQ")%>%
     dplyr::mutate(file_month = lubridate::month(created_date))%>% #create a month field to select on later
     dplyr::filter(file_month%in%select_months)
+
+  t_select_view <- t_select |>
+    mutate(DATA = blob::as_blob(DATA))
 
   apply(X = t_select, MARGIN = 1, FUN = watermark_wq, new_folder = output_folder)
 
