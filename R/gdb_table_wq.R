@@ -27,7 +27,8 @@ joined_table <- attachments %>%
   dplyr::left_join(attributes, by = c("REL_GLOBALID" = "GlobalID"))
 
 # Apply function to get coordinates for the joined_table
-df <- joined_table$SHAPE
+df <- joined_table |>
+  pull(contains("shape", ignore.case = TRUE))
 coords<- sf::st_coordinates(df)
 
 # make the time zone for created_date HST
