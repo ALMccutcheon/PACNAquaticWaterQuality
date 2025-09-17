@@ -1,3 +1,5 @@
+#  change
+
 # Title: Processing Stream Animals Images from Fieldmaps Geodatabase
 #
 # Author: Amanda McCutcheon (amanda_l_mccutcheon@nps.gov)
@@ -9,7 +11,7 @@
 # 4) Once exported, click "Download" and download the file, saving it in the "geodatabase" folder within this project.
 # 5) It will download as a zip file. Extract the file by right clicking and selecting "Extract All". Save the extracted file to the "geodatabase" folder.
 # 6) Rename the geodatabase to something like "YYYYMMDD_WQ_PACN_Field_Images.gdb"
-# 7) Update the USER INPUT section in this script. 
+# 7) Update the USER INPUT section in this script.
 # 8) Use the Source button above or highlight the whole script and press ctrl-Enter.
 # 9) Contact Amanda if you get an error.
 #
