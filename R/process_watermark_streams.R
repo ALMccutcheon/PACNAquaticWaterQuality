@@ -23,6 +23,10 @@ function(gdb_name, gdb_location, gdb_layer,park,loctype,
     dplyr::mutate(file_month = lubridate::month(created_date))%>% #create a month field to select on later
     dplyr::filter(file_month%in%select_months)
 
+  if (nrow(t_select) == 0) {
+    stop("Error: Sampling event information produced zero matching photos.")
+  }
+
   apply(X = t_select, MARGIN = 1, FUN = watermark_streams, new_folder = output_folder)
 
 }
