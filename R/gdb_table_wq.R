@@ -29,7 +29,10 @@ joined_table <- attachments %>%
 # Apply function to get coordinates for the joined_table
 df <- joined_table |>
   pull(contains("shape", ignore.case = TRUE))
-coords<- sf::st_coordinates(df)
+# Searrah (SB): addeded following comment and the code "geom <- sf::st_transform(df, 4326)"
+# SB: check what ESPG it is wring using this: sf::st_crs(df). the line below will change any other ESPG than the one we want to the correct one for lat long
+geom <- sf::st_transform(df, 4326)
+coords<- sf::st_coordinates(geom) #SB changed "df" to "geom" here
 
 # make the time zone for created_date HST
 lubridate::tz(joined_table$created_date)<-"Pacific/Honolulu"
